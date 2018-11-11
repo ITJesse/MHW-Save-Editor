@@ -140,12 +140,13 @@ namespace MHW_Save_Editor
             return str.Substring(0, Math.Min(str.Length, maxLength));
         }
         
-        public static char[] ToFixedSizeCharArray(this string str, int maxLength)
+        public static byte[] ToFixedSizeCharArray(this string str, int maxLength)
         {
-            char[] result = new char[maxLength];
-            for (int i = 0; i < str.Length; i++)
+            byte[] result = new byte[maxLength];
+            byte[] strbytes = Encoding.ASCII.GetBytes(str);
+            for (int i = 0; i < Math.Min(maxLength-1,strbytes.Length); i++)
             {
-                result[i] = str[i];
+                result[i] = strbytes[i];
             }
             return result;
         }

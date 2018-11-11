@@ -18,7 +18,7 @@ namespace MHW_Save_Editor.SaveSlot
         }
         
         private byte[] _HunterName { get; set; }
-        public string HunterName { get => _HunterName.DecodeUTF8(); set => value.ToFixedSizeCharArray(64); }
+        public string HunterName { get => _HunterName.DecodeUTF8(); set => _HunterName = value.ToFixedSizeCharArray(64); }
 
         public UInt32 HunterRank;
         public UInt32 Zenny;
