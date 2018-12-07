@@ -19,7 +19,7 @@ namespace MHW_Save_Editor
             string steamPath = (string)Registry.GetValue(@"HKEY_CURRENT_USER\Software\Valve\Steam", "SteamPath", "");
             if (steamPath != "")
             {
-                steamPath = steamPath + "/userdata";
+                steamPath += "/userdata";
                 Console.WriteLine("Found SteamPath " + steamPath);
                 bool foundGamePath = false;
                 foreach (string userdir in Directory.GetDirectories(steamPath))
@@ -27,7 +27,7 @@ namespace MHW_Save_Editor
                     foreach (string gamedir in Directory.GetDirectories(userdir))
                         if (gamedir.Contains("582010"))
                         {
-                            steamPath = (gamedir + "\\remote").Replace('/', '\\');
+                            steamPath = gamedir + "\\remote";
                             Console.WriteLine("Found GameDir " + steamPath);
                             foundGamePath = true;
                             break;
@@ -37,7 +37,7 @@ namespace MHW_Save_Editor
                         break;
                 }
             }
-            return steamPath;
+            return Path.GetFullPath(steamPath);
         }
 
         public static string getLocalAppDataPath()
