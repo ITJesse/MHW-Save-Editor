@@ -81,6 +81,11 @@ namespace MHW_Save_Editor.FileFormat
             Array.Copy(newid, 0, data, 0x28, newid.Length);        
         }
 
+        public void resetVouchers()
+        {
+            data[0x3000B4] = 0x00;
+        }
+
         public string GetChecksum()
         {
             return BitConverter.ToString(ReadChecksum()).Replace("-","");

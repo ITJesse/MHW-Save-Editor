@@ -13,6 +13,7 @@
             <Label Name="SteamIdLabel" Content="{Binding SteamId}" MouseDoubleClick="EditSteamLabel"/>
             <Label Name="SizeLabel" Content="{Binding Size}"/>
             <Label Name="FilePathLabel" Content="{Binding FilePath}"/>
+            <Label Name="VoucherLabels" Content="{Binding Vouchers}" MouseDoubleClick="EditVoucherCount"/>
         </ListBox>
     </Grid>
 </UserControl>

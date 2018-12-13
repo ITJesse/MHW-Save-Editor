@@ -13,10 +13,16 @@ namespace MHW_Save_Editor
         }
 
         public event EventHandler SteamLabelDoubleClicked;
+        public event EventHandler VoucherResetDoubleClicked;
         public void EditSteamLabel(object sender, RoutedEventArgs args)
         {
             if (SteamLabelDoubleClicked != null)
                 SteamLabelDoubleClicked(this, args);
+        }
+        public void EditVoucherCount(object sender, RoutedEventArgs args)
+        {
+            if (VoucherResetDoubleClicked != null)
+                VoucherResetDoubleClicked(this, args);
         }
         
         public string Checksum
@@ -52,6 +58,7 @@ namespace MHW_Save_Editor
 
         public static readonly DependencyProperty SizeProperty =
             DependencyProperty.Register("Size", typeof(string), typeof(GeneralTab), new UIPropertyMetadata(""));
+        
         public string FilePath
         {
             get { return (string)GetValue(FilePathProperty); }
@@ -60,6 +67,15 @@ namespace MHW_Save_Editor
 
         public static readonly DependencyProperty FilePathProperty =
             DependencyProperty.Register("FilePath", typeof(string), typeof(GeneralTab), new UIPropertyMetadata(""));
+        
+        public string Vouchers
+        {
+            get { return (string)GetValue(VouchersProperty); }
+            set { SetValue(VouchersProperty, value); }
+        }
+
+        public static readonly DependencyProperty VouchersProperty =
+            DependencyProperty.Register("Vouchers", typeof(string), typeof(GeneralTab), new UIPropertyMetadata(""));
         
     }
 }

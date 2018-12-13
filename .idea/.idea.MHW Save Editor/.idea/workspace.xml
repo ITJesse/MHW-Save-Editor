@@ -3,9 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="f7302d10-7dc5-476b-ab1a-ada103a17aa1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MHW Save Editor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MHW Save Editor/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHW Save Editor/src/SlotEditing/CharacterSlot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MHW Save Editor/src/SlotEditing/CharacterSlot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHW Save Editor/src/SlotEditing/SlotView.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/MHW Save Editor/src/SlotEditing/SlotView.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MHW Save Editor/src/Utility/Utility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MHW Save Editor/src/Utility/Utility.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHW Save Editor/MainWindowGeneral.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MHW Save Editor/MainWindowGeneral.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHW Save Editor/src/FileFormat/SaveFile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MHW Save Editor/src/FileFormat/SaveFile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHW Save Editor/src/Resources/MasterItemList.json" beforeDir="false" afterPath="$PROJECT_DIR$/MHW Save Editor/src/Resources/MasterItemList.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHW Save Editor/src/Tabs/GeneralTab.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/MHW Save Editor/src/Tabs/GeneralTab.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MHW Save Editor/src/Tabs/GeneralTab.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MHW Save Editor/src/Tabs/GeneralTab.xaml.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,36 +44,38 @@
     <session id="1683850636">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="102" />
+          <entry key="project.closed" value="124" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.15" value="5" />
           <entry key="project.open.time.16" value="9" />
           <entry key="project.open.time.17" value="3" />
-          <entry key="project.open.time.18" value="4" />
+          <entry key="project.open.time.18" value="5" />
           <entry key="project.open.time.19" value="5" />
-          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.3" value="45" />
           <entry key="project.open.time.35" value="1" />
-          <entry key="project.open.time.4" value="12" />
+          <entry key="project.open.time.4" value="20" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="7" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="108" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="129" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="00000002" value="2" />
           <entry key="config" value="17" />
-          <entry key="cs" value="681" />
+          <entry key="cs" value="686" />
           <entry key="csproj" value="5" />
           <entry key="gitignore" value="3" />
           <entry key="ico" value="1" />
@@ -81,13 +87,13 @@
           <entry key="sln" value="1" />
           <entry key="targets" value="6" />
           <entry key="txt" value="2" />
-          <entry key="xaml" value="291" />
+          <entry key="xaml" value="294" />
           <entry key="xml" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="681" />
+          <entry key="C#" value="686" />
           <entry key="Config" value="17" />
           <entry key="Csproj" value="5" />
           <entry key="Image" value="2" />
@@ -96,7 +102,7 @@
           <entry key="PLAIN_TEXT" value="11" />
           <entry key="Resources" value="2" />
           <entry key="Solution File" value="1" />
-          <entry key="XAML" value="291" />
+          <entry key="XAML" value="294" />
           <entry key="XML" value="19" />
         </counts>
       </usages-collector>
@@ -104,23 +110,23 @@
         <counts>
           <entry key="C# Console" value="752" />
           <entry key="config" value="137" />
-          <entry key="cs" value="74652" />
+          <entry key="cs" value="74907" />
           <entry key="csproj" value="49" />
           <entry key="gitignore" value="45" />
           <entry key="json" value="49" />
-          <entry key="txt" value="3964" />
-          <entry key="xaml" value="14010" />
+          <entry key="txt" value="3985" />
+          <entry key="xaml" value="14118" />
           <entry key="xml" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="75404" />
+          <entry key="C#" value="75659" />
           <entry key="Config" value="137" />
           <entry key="Csproj" value="49" />
           <entry key="JSON" value="49" />
-          <entry key="PLAIN_TEXT" value="4009" />
-          <entry key="XAML" value="14010" />
+          <entry key="PLAIN_TEXT" value="4030" />
+          <entry key="XAML" value="14118" />
           <entry key="XML" value="58" />
         </counts>
       </usages-collector>
@@ -129,142 +135,174 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml.cs">
+        <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/Tabs/GeneralTab.xaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+            <state relative-caret-position="255">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
               <folding>
-                <marker date="1540674056257" expanded="false" signature="6:425" ph="..." />
-                <marker date="1540674056257" expanded="true" signature="452:12016" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="459:537" ph="/// Interaction logic for MainWindow.xaml ... " />
-                <marker date="1540674056257" expanded="true" signature="606:12009" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="912:1303" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="987:1293" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="1343:1513" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="1553:1610" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="1639:1776" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="1846:3289" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="2213:2378" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="2409:2571" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="3358:4649" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="3757:4639" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="3809:4481" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="3851:4230" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="4277:4463" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="4502:4624" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="4720:5575" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="5040:5565" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="5074:5336" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="5375:5551" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="5647:7491" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="6433:6959" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="6475:6705" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="6752:6941" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="7005:7481" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="7039:7251" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="7290:7467" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="7562:7711" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="7782:7931" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="8002:8151" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="8221:8658" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="8723:8769" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="8836:9114" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="9200:9395" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="9250:9385" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="9452:9818" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="9478:9808" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="9541:9794" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="9876:10244" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="9902:10234" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="9966:10220" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="10297:10308" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="10361:10372" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="10446:10736" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="10487:10726" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="10803:11095" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="10844:11085" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="11170:11337" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="11413:11581" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="11728:12003" ph="{...}" />
-                <marker date="1540674056257" expanded="true" signature="11890:11993" ph="{...}" />
+                <marker date="1544679842007" expanded="true" signature="0:1088" ph="&lt;&lt;Grid&gt;&#10;        &lt;ListBox Name=&quot;ListBox&quot; &gt;&#10;            &lt;Label Name=&quot;ChecksumLabel&quot; Content=&quot;{Binding Checksum}&quot;/&gt;&#10;            &lt;Label Name=&quot;GeneratedChecksumLabel&quot; Content=&quot;{Binding OnFileChecksum}&quot;/&gt;&#10;            &lt;Label Name=&quot;SteamIdLabel&quot; Content=&quot;{Binding SteamId}&quot; MouseDoubleClick=&quot;EditSteamLabel&quot;/&gt;&#10;            &lt;Label Name=&quot;SizeLabel&quot; Content=&quot;{Binding Size}&quot;/&gt;&#10;            &lt;Label Name=&quot;FilePathLabel&quot; Content=&quot;{Binding FilePath}&quot;/&gt;&#10;            &lt;Label Name=&quot;VoucherLabels&quot; Content=&quot;{Binding Vouchers}&quot; MouseDoubleClick=&quot;EditVoucherCount&quot;/&gt;&#10;        &lt;/ListBox&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1544679842007" expanded="true" signature="501:1073" ph="&lt;&lt;ListBox Name=&quot;ListBox&quot; &gt;&#10;            &lt;Label Name=&quot;ChecksumLabel&quot; Content=&quot;{Binding Checksum}&quot;/&gt;&#10;            &lt;Label Name=&quot;GeneratedChecksumLabel&quot; Content=&quot;{Binding OnFileChecksum}&quot;/&gt;&#10;            &lt;Label Name=&quot;SteamIdLabel&quot; Content=&quot;{Binding SteamId}&quot; MouseDoubleClick=&quot;EditSteamLabel&quot;/&gt;&#10;            &lt;Label Name=&quot;SizeLabel&quot; Content=&quot;{Binding Size}&quot;/&gt;&#10;            &lt;Label Name=&quot;FilePathLabel&quot; Content=&quot;{Binding FilePath}&quot;/&gt;&#10;            &lt;Label Name=&quot;VoucherLabels&quot; Content=&quot;{Binding Vouchers}&quot; MouseDoubleClick=&quot;EditVoucherCount&quot;/&gt;&#10;        &lt;/ListBox&gt;.../&gt;" />
+                <marker date="1544679842007" expanded="true" signature="516:1061" ph="&lt;&lt;Label Name=&quot;ChecksumLabel&quot; Content=&quot;{Binding Checksum}&quot;/&gt; &lt;Label Name=&quot;GeneratedChecksumLabel&quot; Content=&quot;{Binding OnFileChecksum}&quot;/&gt; &lt;Label Name=&quot;SteamIdLabel&quot; Content=&quot;{Binding SteamId}&quot; MouseDoubleClick=&quot;EditSteamLabel&quot;/&gt; &lt;Label Name=&quot;SizeLabel&quot; Content=&quot;{Binding Size}&quot;/&gt; &lt;Label Name=&quot;FilePathLabel&quot; Content=&quot;{Binding FilePath}&quot;/&gt; &lt;Label Name=&quot;VoucherLabels&quot; Content=&quot;{Binding Vouchers}&quot; MouseDoubleClick=&quot;EditVoucherCount&quot;/&gt;.../&gt;" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/Resources/MasterItemList.json">
+        <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/Tabs/GeneralTab.xaml.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="825" column="212" selection-start-line="825" selection-start-column="206" selection-end-line="825" selection-end-column="212" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MHW Save Editor/MainWindowInventory.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
+            <state relative-caret-position="424">
+              <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="30" />
               <folding>
-                <marker date="1540257674423" expanded="false" signature="6:265" ph="..." />
-                <marker date="1540257674423" expanded="true" signature="330:2166" ph="{...}" />
-                <marker date="1540257674423" expanded="true" signature="2102:2141" ph="{...}" />
-                <marker date="1540257674423" expanded="true" signature="2102:2151" ph="{...}" />
+                <marker date="1544680030616" expanded="false" signature="6:66" ph="..." />
+                <marker date="1544680030616" expanded="true" signature="93:2975" ph="{...}" />
+                <marker date="1544680030616" expanded="true" signature="145:2973" ph="{...}" />
+                <marker date="1544680030616" expanded="true" signature="179:266" ph="{...}" />
+                <marker date="1544680030616" expanded="true" signature="459:581" ph="{...}" />
+                <marker date="1544680030616" expanded="true" signature="655:781" ph="{...}" />
+                <marker date="1544680030616" expanded="true" signature="821:959" ph="{...}" />
+                <marker date="1544680030616" expanded="true" signature="1192:1342" ph="{...}" />
+                <marker date="1544680030616" expanded="true" signature="1571:1707" ph="{...}" />
+                <marker date="1544680030616" expanded="true" signature="1919:2049" ph="{...}" />
+                <marker date="1544680030616" expanded="true" signature="2268:2406" ph="{...}" />
+                <marker date="1544680030616" expanded="true" signature="2633:2771" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MHW Save Editor/MainWindowGeneral.xaml.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="433">
+              <caret line="39" column="71" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
               <folding>
-                <marker date="1538109494933" expanded="false" signature="7:55" ph="..." />
-                <marker date="1538109494933" expanded="true" signature="82:1061" ph="{...}" />
-                <marker date="1538109494933" expanded="true" signature="89:167" ph="/// Interaction logic for MainWindow.xaml ... " />
-                <marker date="1538109494933" expanded="true" signature="203:1059" ph="{...}" />
-                <marker date="1538109494933" expanded="true" signature="281:1053" ph="{...}" />
-                <marker date="1538109494933" expanded="true" signature="534:1010" ph="{...}" />
-                <marker date="1538109494933" expanded="true" signature="618:840" ph="{...}" />
-                <marker date="1538109494933" expanded="true" signature="879:996" ph="{...}" />
+                <marker date="1544680283721" expanded="false" signature="7:55" ph="..." />
+                <marker date="1544680283721" expanded="true" signature="82:1323" ph="{...}" />
+                <marker date="1544680283721" expanded="true" signature="89:167" ph="/// Interaction logic for MainWindow.xaml ... " />
+                <marker date="1544680283721" expanded="true" signature="203:1321" ph="{...}" />
+                <marker date="1544680283721" expanded="true" signature="281:1053" ph="{...}" />
+                <marker date="1544680283721" expanded="true" signature="534:1010" ph="{...}" />
+                <marker date="1544680283721" expanded="true" signature="618:840" ph="{...}" />
+                <marker date="1544680283721" expanded="true" signature="879:996" ph="{...}" />
+                <marker date="1544680283721" expanded="true" signature="1119:1315" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MHW Save Editor/InputBox.xaml">
+        <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/FileFormat/SaveFile.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="374">
+              <caret line="85" column="34" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
               <folding>
-                <marker date="1538107859868" expanded="true" signature="0:1002" ph="&lt;&lt;Grid Margin=&quot;15&quot;&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;&#10;        &lt;Label Name=&quot;lblQuestion&quot; &gt;Question:&lt;/Label&gt;&#10;        &lt;TextBox Name=&quot;txtAnswer&quot; Grid.Row=&quot;1&quot; MinWidth=&quot;250&quot; UndoLimit = &quot;0&quot; &gt;Answer&lt;/TextBox&gt;&#10;&#10;        &lt;WrapPanel Grid.Row=&quot;2&quot; HorizontalAlignment=&quot;Right&quot; Margin=&quot;0,15,0,0&quot;&gt;&#10;            &lt;Button IsDefault=&quot;True&quot; Name=&quot;btnDialogOk&quot; Click=&quot;btnDialogOk_Click&quot; MinWidth=&quot;60&quot; Margin=&quot;0,0,10,0&quot;&gt;_Ok&lt;/Button&gt;&#10;            &lt;Button IsCancel=&quot;True&quot; MinWidth=&quot;60&quot;&gt;_Cancel&lt;/Button&gt;&#10;        &lt;/WrapPanel&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
-                <marker date="1538107859868" expanded="true" signature="324:992" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;Label Name=&quot;lblQuestion&quot; &gt;Question:&lt;/Label&gt; &lt;TextBox Name=&quot;txtAnswer&quot; Grid.Row=&quot;1&quot; MinWidth=&quot;250&quot; UndoLimit = &quot;0&quot; &gt;Answer&lt;/TextBox&gt; &lt;WrapPanel Grid.Row=&quot;2&quot; HorizontalAlignment=&quot;Right&quot; Margin=&quot;0,15,0,0&quot;&gt;&#10;            &lt;Button IsDefault=&quot;True&quot; Name=&quot;btnDialogOk&quot; Click=&quot;btnDialogOk_Click&quot; MinWidth=&quot;60&quot; Margin=&quot;0,0,10,0&quot;&gt;_Ok&lt;/Button&gt;&#10;            &lt;Button IsCancel=&quot;True&quot; MinWidth=&quot;60&quot;&gt;_Cancel&lt;/Button&gt;&#10;        &lt;/WrapPanel&gt;.../&gt;" />
-                <marker date="1538107859868" expanded="true" signature="351:535" ph="&lt;&lt;RowDefinition Height=&quot;Auto&quot; /&gt; &lt;RowDefinition Height=&quot;Auto&quot; /&gt; &lt;RowDefinition Height=&quot;Auto&quot; /&gt;.../&gt;" />
-                <marker date="1538107859868" expanded="true" signature="695:980" ph="&lt;&lt;Button IsDefault=&quot;True&quot; Name=&quot;btnDialogOk&quot; Click=&quot;btnDialogOk_Click&quot; MinWidth=&quot;60&quot; Margin=&quot;0,0,10,0&quot;&gt;_Ok&lt;/Button&gt; &lt;Button IsCancel=&quot;True&quot; MinWidth=&quot;60&quot;&gt;_Cancel&lt;/Button&gt;.../&gt;" />
+                <marker date="1544679349136" expanded="false" signature="7:168" ph="..." />
+                <marker date="1544679349136" expanded="true" signature="206:2931" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="227:2929" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="442:623" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="658:759" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="790:1017" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="844:1007" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="1048:1262" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="1089:1252" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="1293:1338" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="1398:1675" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="1711:1980" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="2027:2175" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="2212:2267" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="2304:2398" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="2437:2594" ph="{...}" />
+                <marker date="1544679349136" expanded="true" signature="2644:2914" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/SlotEditing/CharacterSlot.cs">
+        <entry file="file://$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+            <state relative-caret-position="357">
+              <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
               <folding>
-                <marker date="1541979449395" expanded="false" signature="6:188" ph="..." />
-                <marker date="1541979449395" expanded="true" signature="224:6153" ph="{...}" />
-                <marker date="1541979449395" expanded="true" signature="257:6151" ph="{...}" />
-                <marker date="1541979449395" expanded="true" signature="432:530" ph="{...}" />
-                <marker date="1541979449395" expanded="true" signature="916:1298" ph="/* public HunterAppearance HunterAppearance; ... */" />
-                <marker date="1541979449395" expanded="true" signature="1385:1853" ph="{...}" />
-                <marker date="1541979449395" expanded="true" signature="1903:2147" ph="{...}" />
-                <marker date="1541979449395" expanded="true" signature="2004:2113" ph="{...}" />
-                <marker date="1541979449395" expanded="true" signature="2182:2519" ph="{...}" />
-                <marker date="1541979449395" expanded="true" signature="2660:6144" ph="{...}" />
+                <marker date="1544679103056" expanded="true" signature="0:3166" ph="&lt;&lt;DockPanel Name=&quot;Root&quot; xmlns:local=&quot;clr-namespace:MHW_Save_Editor&quot;&gt;&#10;        &lt;Menu Width=&quot;Auto&quot; Height=&quot;20&quot; DockPanel.Dock=&quot;Top&quot;&gt;&#10;            &lt;MenuItem Header=&quot;File&quot;&gt;&#10;                &lt;MenuItem Header=&quot;Open&quot; Click=&quot;OpenFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Save&quot; Click=&quot;SaveFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Backup&quot; Click=&quot;BackupFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Restore&quot; Click=&quot;RestoreFunction&quot; /&gt;&#10;            &lt;/MenuItem&gt;&#10;            &lt;MenuItem Header=&quot;Slot&quot; IsEnabled=&quot;{Binding FileLoaded}&quot;&gt;&#10;                &lt;MenuItem Name=&quot;Slot0&quot; IsChecked=&quot;True&quot; Header=&quot;Slot 1&quot; Click=&quot;SetSlot0Active&quot; IsEnabled=&quot;{Binding Slot1Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot1&quot; Header=&quot;Slot 2&quot; Click=&quot;SetSlot1Active&quot; IsEnabled=&quot;{Binding Slot2Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot2&quot; Header=&quot;Slot 3&quot; Click=&quot;SetSlot2Active&quot; IsEnabled=&quot;{Binding Slot3Enabled}&quot;/&gt;&#10;                &lt;MenuItem Header=&quot;Reset Memory&quot; Click=&quot;clearMem&quot; /&gt;&#10;            &lt;/MenuItem&gt;&#10;            &lt;MenuItem Header=&quot;Edit&quot; ItemsSource = &quot;{Binding EditOptions}&quot; Click = &quot;EditMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;&#10;            &lt;MenuItem Header=&quot;Tools&quot; ItemsSource = &quot;{Binding ToolsOptions}&quot; Click = &quot;ToolsMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;&#10;        &lt;/Menu&gt;&#10;        &lt;Grid&gt;&#10;            &lt;TabControl Name = &quot;TabControl&quot; SelectionChanged = &quot;TabControl_SelectionChanged&quot;&gt;&#10;                &lt;TabItem Header=&quot;General&quot;&gt;&#10;                    &lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot; VoucherResetDoubleClicked=&quot;EditVoucherCount&quot;/&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;TabItem Header=&quot;Information&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Investigations ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Investigations&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Inventory ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Inventory&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;            &lt;/TabControl&gt;&#10;        &lt;/Grid&gt;&#10;    &lt;/DockPanel&gt;.../&gt;" />
+                <marker date="1544679103056" expanded="true" signature="659:3156" ph="&lt;&lt;Menu Width=&quot;Auto&quot; Height=&quot;20&quot; DockPanel.Dock=&quot;Top&quot;&gt;&#10;            &lt;MenuItem Header=&quot;File&quot;&gt;&#10;                &lt;MenuItem Header=&quot;Open&quot; Click=&quot;OpenFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Save&quot; Click=&quot;SaveFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Backup&quot; Click=&quot;BackupFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Restore&quot; Click=&quot;RestoreFunction&quot; /&gt;&#10;            &lt;/MenuItem&gt;&#10;            &lt;MenuItem Header=&quot;Slot&quot; IsEnabled=&quot;{Binding FileLoaded}&quot;&gt;&#10;                &lt;MenuItem Name=&quot;Slot0&quot; IsChecked=&quot;True&quot; Header=&quot;Slot 1&quot; Click=&quot;SetSlot0Active&quot; IsEnabled=&quot;{Binding Slot1Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot1&quot; Header=&quot;Slot 2&quot; Click=&quot;SetSlot1Active&quot; IsEnabled=&quot;{Binding Slot2Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot2&quot; Header=&quot;Slot 3&quot; Click=&quot;SetSlot2Active&quot; IsEnabled=&quot;{Binding Slot3Enabled}&quot;/&gt;&#10;                &lt;MenuItem Header=&quot;Reset Memory&quot; Click=&quot;clearMem&quot; /&gt;&#10;            &lt;/MenuItem&gt;&#10;            &lt;MenuItem Header=&quot;Edit&quot; ItemsSource = &quot;{Binding EditOptions}&quot; Click = &quot;EditMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;&#10;            &lt;MenuItem Header=&quot;Tools&quot; ItemsSource = &quot;{Binding ToolsOptions}&quot; Click = &quot;ToolsMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;&#10;        &lt;/Menu&gt; &lt;Grid&gt;&#10;            &lt;TabControl Name = &quot;TabControl&quot; SelectionChanged = &quot;TabControl_SelectionChanged&quot;&gt;&#10;                &lt;TabItem Header=&quot;General&quot;&gt;&#10;                    &lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot; VoucherResetDoubleClicked=&quot;EditVoucherCount&quot;/&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;TabItem Header=&quot;Information&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Investigations ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Investigations&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Inventory ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Inventory&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;            &lt;/TabControl&gt;&#10;        &lt;/Grid&gt;.../&gt;" />
+                <marker date="1544679103056" expanded="true" signature="735:1935" ph="&lt;&lt;MenuItem Header=&quot;File&quot;&gt;&#10;                &lt;MenuItem Header=&quot;Open&quot; Click=&quot;OpenFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Save&quot; Click=&quot;SaveFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Backup&quot; Click=&quot;BackupFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Restore&quot; Click=&quot;RestoreFunction&quot; /&gt;&#10;            &lt;/MenuItem&gt; &lt;MenuItem Header=&quot;Slot&quot; IsEnabled=&quot;{Binding FileLoaded}&quot;&gt;&#10;                &lt;MenuItem Name=&quot;Slot0&quot; IsChecked=&quot;True&quot; Header=&quot;Slot 1&quot; Click=&quot;SetSlot0Active&quot; IsEnabled=&quot;{Binding Slot1Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot1&quot; Header=&quot;Slot 2&quot; Click=&quot;SetSlot1Active&quot; IsEnabled=&quot;{Binding Slot2Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot2&quot; Header=&quot;Slot 3&quot; Click=&quot;SetSlot2Active&quot; IsEnabled=&quot;{Binding Slot3Enabled}&quot;/&gt;&#10;                &lt;MenuItem Header=&quot;Reset Memory&quot; Click=&quot;clearMem&quot; /&gt;&#10;            &lt;/MenuItem&gt; &lt;MenuItem Header=&quot;Edit&quot; ItemsSource = &quot;{Binding EditOptions}&quot; Click = &quot;EditMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt; &lt;MenuItem Header=&quot;Tools&quot; ItemsSource = &quot;{Binding ToolsOptions}&quot; Click = &quot;ToolsMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;.../&gt;" />
+                <marker date="1544679103056" expanded="true" signature="800:1114" ph="&lt;&lt;MenuItem Header=&quot;Open&quot; Click=&quot;OpenFunction&quot; /&gt; &lt;MenuItem Header=&quot;Save&quot; Click=&quot;SaveFunction&quot; /&gt; &lt;MenuItem Header=&quot;Backup&quot; Click=&quot;BackupFunction&quot; /&gt; &lt;MenuItem Header=&quot;Restore&quot; Click=&quot;RestoreFunction&quot; /&gt;.../&gt;" />
+                <marker date="1544679103056" expanded="true" signature="1127:1638" ph="&lt;&lt;MenuItem Name=&quot;Slot0&quot; IsChecked=&quot;True&quot; Header=&quot;Slot 1&quot; Click=&quot;SetSlot0Active&quot; IsEnabled=&quot;{Binding Slot1Enabled}&quot;/&gt; &lt;MenuItem Name=&quot;Slot1&quot; Header=&quot;Slot 2&quot; Click=&quot;SetSlot1Active&quot; IsEnabled=&quot;{Binding Slot2Enabled}&quot;/&gt; &lt;MenuItem Name=&quot;Slot2&quot; Header=&quot;Slot 3&quot; Click=&quot;SetSlot2Active&quot; IsEnabled=&quot;{Binding Slot3Enabled}&quot;/&gt; &lt;MenuItem Header=&quot;Reset Memory&quot; Click=&quot;clearMem&quot; /&gt;.../&gt;" />
+                <marker date="1544679103056" expanded="true" signature="1944:3139" ph="&lt;&lt;TabControl Name = &quot;TabControl&quot; SelectionChanged = &quot;TabControl_SelectionChanged&quot;&gt;&#10;                &lt;TabItem Header=&quot;General&quot;&gt;&#10;                    &lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot; VoucherResetDoubleClicked=&quot;EditVoucherCount&quot;/&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;TabItem Header=&quot;Information&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Investigations ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Investigations&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Inventory ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Inventory&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;            &lt;/TabControl&gt;.../&gt;" />
+                <marker date="1544679103056" expanded="true" signature="1963:3123" ph="&lt;&lt;TabItem Header=&quot;General&quot;&gt;&#10;                    &lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot; VoucherResetDoubleClicked=&quot;EditVoucherCount&quot;/&gt;&#10;                &lt;/TabItem&gt; &lt;TabItem Header=&quot;Information&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt; &lt;TabItem Header=&quot;Investigations&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt; &lt;TabItem Header=&quot;Inventory&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;.../&gt;" />
+                <marker date="1544679103056" expanded="true" signature="2061:2267" ph="&lt;&lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot; VoucherResetDoubleClicked=&quot;EditVoucherCount&quot;/&gt;.../&gt;" />
+                <marker date="1544679103056" expanded="true" signature="2284:2460" ph="&lt;&lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1544679103056" expanded="true" signature="2335:2433" ph="&lt;&lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;.../&gt;" />
+                <marker date="1544679103056" expanded="true" signature="2597:2786" ph="&lt;&lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1544679103056" expanded="true" signature="2651:2759" ph="&lt;&lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;.../&gt;" />
+                <marker date="1544679103056" expanded="true" signature="2918:3097" ph="&lt;&lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1544679103056" expanded="true" signature="2967:3070" ph="&lt;&lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="89" column="58" selection-start-line="89" selection-start-column="58" selection-end-line="89" selection-end-column="58" />
+              <folding>
+                <marker date="1544680224156" expanded="false" signature="6:425" ph="..." />
+                <marker date="1544680224156" expanded="true" signature="452:12075" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="459:537" ph="/// Interaction logic for MainWindow.xaml ... " />
+                <marker date="1544680224156" expanded="true" signature="606:12068" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="912:1303" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="987:1293" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="1343:1513" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="1553:1610" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="1639:1776" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="1846:3348" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="2213:2378" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="2409:2571" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="3417:4708" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="3816:4698" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="3868:4540" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="3910:4289" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="4336:4522" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="4561:4683" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="4779:5634" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="5099:5624" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="5133:5395" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="5434:5610" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="5706:7550" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="6492:7018" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="6534:6764" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="6811:7000" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="7064:7540" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="7098:7310" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="7349:7526" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="7621:7770" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="7841:7990" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="8061:8210" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="8280:8717" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="8782:8828" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="8895:9173" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="9259:9454" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="9309:9444" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="9511:9877" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="9537:9867" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="9600:9853" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="9935:10303" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="9961:10293" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="10025:10279" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="10356:10367" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="10420:10431" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="10505:10795" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="10546:10785" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="10862:11154" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="10903:11144" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="11229:11396" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="11472:11640" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="11787:12062" ph="{...}" />
+                <marker date="1544680224156" expanded="true" signature="11949:12052" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -287,7 +325,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/SlotEditing/SlotView.xaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
+            <state relative-caret-position="272">
               <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
               <folding>
                 <marker date="1541979534881" expanded="true" signature="0:5066" ph="&lt;&lt;UserControl.Resources&gt;&#10;        &lt;local:EnumBooleanConverter x:Key=&quot;EnumBooleanConverter&quot; /&gt;&#10;    &lt;/UserControl.Resources&gt; &lt;Grid&gt;&#10;        &lt;ListBox Name=&quot;ListBox&quot; HorizontalContentAlignment=&quot;Stretch&quot; DataContext=&quot;{Binding VisibleSlot}&quot;&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBlock Text=&quot;Hunter Name: &quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;TextBox Text=&quot;{Binding HunterName, Mode=TwoWay}&quot; UndoLimit = &quot;1&quot; MaxLength = &quot;64&quot; BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot; SelectionBrush=&quot;Transparent&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBlock Text=&quot;Hunter Rank: &quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;xctk:IntegerUpDown Text=&quot;{Binding HunterRank}&quot;&#10;                                    Minimum = &quot;0&quot; Maximum = &quot;999&quot; FormatString=&quot;N0&quot;&#10;                                    BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBlock Text=&quot;Zenny: &quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;xctk:IntegerUpDown Text=&quot;{Binding Zenny}&quot; ShowButtonSpinner = &quot;False&quot; &#10;                                    Minimum = &quot;0&quot; Maximum = &quot;2147483647&quot; FormatString=&quot;N0&quot;&#10;                                    BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot;/&gt;&#10;                &lt;TextBlock Text=&quot;z&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBlock Text=&quot;Research Points: &quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;xctk:IntegerUpDown Text=&quot;{Binding ResearchPoints}&quot; ShowButtonSpinner = &quot;False&quot; &#10;                                    Minimum = &quot;0&quot; Maximum = &quot;2147483647&quot; FormatString=&quot;N0&quot;&#10;                                    BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBlock Text=&quot;Hunter XP: &quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;xctk:IntegerUpDown Text=&quot;{Binding HunterXP}&quot; ShowButtonSpinner = &quot;False&quot; &#10;                                    Minimum = &quot;0&quot; Maximum = &quot;2147483647&quot; FormatString=&quot;N0&quot;&#10;                                    BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBlock Text=&quot;Playtime: &quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;xctk:IntegerUpDown Text=&quot;{Binding hours}&quot; ShowButtonSpinner = &quot;False&quot; &#10;                                    Minimum = &quot;0&quot; Maximum = &quot;9999&quot; FormatString=&quot;N0&quot;&#10;                                    HorizontalAlignment=&quot;Right&quot;&#10;                                    BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot;/&gt;&#10;                &lt;TextBlock Text=&quot;h&quot; VerticalAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Left&quot;/&gt;&#10;                &lt;xctk:IntegerUpDown Text=&quot;{Binding minutes}&quot; ShowButtonSpinner = &quot;False&quot; &#10;                                    Minimum = &quot;0&quot; Maximum = &quot;59&quot; FormatString=&quot;00&quot;&#10;                                    HorizontalAlignment=&quot;Right&quot;&#10;                                    BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot;/&gt;&#10;                &lt;TextBlock Text=&quot;m&quot; VerticalAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Left&quot;/&gt;&#10;                &lt;xctk:IntegerUpDown Text=&quot;{Binding seconds}&quot; ShowButtonSpinner = &quot;False&quot; &#10;                                    Minimum = &quot;0&quot; Maximum = &quot;59&quot; FormatString=&quot;00&quot;&#10;                                    HorizontalAlignment=&quot;Right&quot;&#10;                                    BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot;/&gt;&#10;                &lt;TextBlock Text=&quot;s&quot; VerticalAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Left&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBlock Text=&quot;Gender:    Male&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;RadioButton IsChecked=&quot;{Binding Gender, Converter={StaticResource EnumBooleanConverter}, &#10;                ConverterParameter={x:Static local:GenderEnum.Male}, Mode=TwoWay}&quot;&#10;                             VerticalAlignment=&quot;Bottom&quot;/&gt;&#10;                &lt;TextBlock Text=&quot;    Female &quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;RadioButton IsChecked=&quot;{Binding Gender, Converter={StaticResource EnumBooleanConverter}, &#10;                ConverterParameter={x:Static local:GenderEnum.Female}, Mode=TwoWay}&quot;&#10;                             VerticalAlignment=&quot;Bottom&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;        &lt;/ListBox&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
@@ -318,55 +356,55 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/Utility/Utility.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="148" column="16" selection-start-line="148" selection-start-column="16" selection-end-line="148" selection-end-column="16" />
+            <state relative-caret-position="337">
+              <caret line="141" column="8" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
               <folding>
-                <marker date="1541980038909" expanded="false" signature="6:224" ph="..." />
-                <marker date="1541980038909" expanded="true" signature="251:7054" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="278:5456" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="328:1409" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="555:1369" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="813:1355" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="969:1266" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="1461:1619" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="1665:1885" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="1787:1844" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="1930:2136" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="2190:2544" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="2302:2506" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="2624:2753" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="2837:2999" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="3081:3211" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="3265:3776" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="3794:3943" ph="/* Taken from the solution to the problem in O(n) time, O(1) space ... */" />
-                <marker date="1541980038909" expanded="true" signature="4023:4381" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="4308:4371" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="4474:4551" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="4630:4791" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="4882:5183" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="5077:5146" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="5254:5450" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="5500:6069" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="5627:5735" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="5745:5863" ph="/* Convenience method on IEnumerable&lt;T&gt; to allow passing of a ... */" />
-                <marker date="1541980038909" expanded="true" signature="5963:6063" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="6075:6233" ph="/* Wraps a generic Comparison&lt;T&gt; delegate in an IComparer to make it easy ... */" />
-                <marker date="1541980038909" expanded="true" signature="6298:6693" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="6417:6475" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="6513:6571" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="6621:6687" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="6762:7052" ph="{...}" />
-                <marker date="1541980038909" expanded="true" signature="6835:7046" ph="{...}" />
+                <marker date="1544141494238" expanded="false" signature="6:224" ph="..." />
+                <marker date="1544141494238" expanded="true" signature="251:7040" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="278:5442" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="328:1395" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="555:1337" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="802:1323" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="958:1234" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="1447:1605" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="1651:1871" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="1773:1830" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="1916:2122" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="2176:2530" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="2288:2492" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="2610:2739" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="2823:2985" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="3067:3197" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="3251:3762" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="3780:3929" ph="/* Taken from the solution to the problem in O(n) time, O(1) space ... */" />
+                <marker date="1544141494238" expanded="true" signature="4009:4367" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="4294:4357" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="4460:4537" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="4616:4777" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="4868:5169" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="5063:5132" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="5240:5436" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="5486:6055" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="5613:5721" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="5731:5849" ph="/* Convenience method on IEnumerable&lt;T&gt; to allow passing of a ... */" />
+                <marker date="1544141494238" expanded="true" signature="5949:6049" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="6061:6219" ph="/* Wraps a generic Comparison&lt;T&gt; delegate in an IComparer to make it easy ... */" />
+                <marker date="1544141494238" expanded="true" signature="6284:6679" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="6403:6461" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="6499:6557" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="6607:6673" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="6748:7038" ph="{...}" />
+                <marker date="1544141494238" expanded="true" signature="6821:7032" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/913BC31B-8E29-4F10-9E04-523E15AE37B2/f0/182f98ca/RoutedEventHandlerInfo.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+            <state>
+              <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -375,8 +413,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>_EmptyIcon</find>
-      <find>description</find>
       <find>name</find>
       <find>Content</find>
       <find>Conten</find>
@@ -405,6 +441,8 @@
       <find>CommitInventory</find>
       <find>SaveSlotOffset</find>
       <find>SetSlot1</find>
+      <find>steamlabel</find>
+      <find>SteamLabelDoubleClicked</find>
     </findStrings>
     <replaceStrings>
       <replace>{\n_inv.Set(\1)\(value\);\nRaisePropertyChanged(\1);}</replace>
@@ -440,6 +478,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -593,10 +632,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MHW Save Editor/Tabs/InventoryTab.xaml.cs" />
-        <option value="$PROJECT_DIR$/MHW Save Editor/src/InventoryEditing/InventoryView.xaml.cs" />
-        <option value="$PROJECT_DIR$/MHW Save Editor/src/InventoryEditing/ItemView.xaml.cs" />
-        <option value="$PROJECT_DIR$/MHW Save Editor/src/InvestigationEditing/Boxstore.xaml" />
         <option value="$PROJECT_DIR$/MHW Save Editor/src/InvestigationEditing/Boxstore.xaml.cs" />
         <option value="$PROJECT_DIR$/MHW Save Editor/src/InvestigationEditing/InvestigationThinLayer.cs" />
         <option value="$PROJECT_DIR$/MHW Save Editor/src/InventoryEditing/ItemView.xaml" />
@@ -639,11 +674,15 @@
         <option value="$PROJECT_DIR$/MHW Save Editor/src/SlotEditing/SlotView.xaml.cs" />
         <option value="$PROJECT_DIR$/MHW Save Editor/MainWindowSlot.cs" />
         <option value="$PROJECT_DIR$/MHW Save Editor/src/SlotEditing/CharacterSlotViewModel.cs" />
-        <option value="$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml" />
-        <option value="$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml.cs" />
         <option value="$PROJECT_DIR$/MHW Save Editor/src/SlotEditing/CharacterSlot.cs" />
         <option value="$PROJECT_DIR$/MHW Save Editor/src/SlotEditing/SlotView.xaml" />
         <option value="$PROJECT_DIR$/MHW Save Editor/src/Utility/Utility.cs" />
+        <option value="$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/MHW Save Editor/src/FileFormat/SaveFile.cs" />
+        <option value="$PROJECT_DIR$/MHW Save Editor/src/Tabs/GeneralTab.xaml" />
+        <option value="$PROJECT_DIR$/MHW Save Editor/src/Tabs/GeneralTab.xaml.cs" />
+        <option value="$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/MHW Save Editor/MainWindowGeneral.xaml.cs" />
       </list>
     </option>
   </component>
@@ -683,13 +722,14 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MHW Save Editor" type="24d0babc:SolutionExplorerModelNode" />
               <item name="MHW Save Editor" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="MHW Save Editor" type="24d0babc:SolutionExplorerModelNode" />
               <item name="MHW Save Editor" type="24d0babc:SolutionExplorerModelNode" />
               <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="FileFormat" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -710,7 +750,8 @@
               <item name="MHW Save Editor" type="24d0babc:SolutionExplorerModelNode" />
               <item name="MHW Save Editor" type="24d0babc:SolutionExplorerModelNode" />
               <item name="src" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Utility" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tabs" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GeneralTab.xaml" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -922,7 +963,28 @@
       <workItem from="1540671774108" duration="3052000" />
       <workItem from="1540706840412" duration="649000" />
       <workItem from="1540710236465" duration="1395000" />
-      <workItem from="1541978322636" duration="1716000" />
+      <workItem from="1541978322636" duration="2471000" />
+      <workItem from="1541996696823" duration="249000" />
+      <workItem from="1542872055872" duration="292000" />
+      <workItem from="1542936560383" duration="2722000" />
+      <workItem from="1542953607471" duration="1235000" />
+      <workItem from="1543019291365" duration="1940000" />
+      <workItem from="1543452173009" duration="1311000" />
+      <workItem from="1543469900004" duration="651000" />
+      <workItem from="1543808271762" duration="57000" />
+      <workItem from="1543862978350" duration="572000" />
+      <workItem from="1543887465376" duration="148000" />
+      <workItem from="1543961631766" duration="74000" />
+      <workItem from="1543980148207" duration="319000" />
+      <workItem from="1543981621065" duration="39000" />
+      <workItem from="1544083431008" duration="319000" />
+      <workItem from="1544135207067" duration="54000" />
+      <workItem from="1544137730262" duration="916000" />
+      <workItem from="1544141316561" duration="872000" />
+      <workItem from="1544165094255" duration="1206000" />
+      <workItem from="1544672952075" duration="2335000" />
+      <workItem from="1544677111324" duration="132000" />
+      <workItem from="1544677742493" duration="2715000" />
     </task>
     <task id="LOCAL-00001" summary="-Fixed checksum algorithm, it works correctly now.&#10;-Fixed encryption algorithm, it works correctly now.&#10;-Modified GUI in preparation for added editors.">
       <created>1536902291909</created>
@@ -1239,11 +1301,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540674222285</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Name change fixed">
+      <created>1541980178219</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1541980178220</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="621551000" />
+    <option name="totallyTimeSpent" value="640464000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1256,14 +1325,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18710022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23400854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49626866" weight="0.2635575" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" visible="true" weight="0.46203905" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49626866" weight="0.2624729" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" weight="0.46203905" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.329718" />
@@ -1274,7 +1344,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4989339" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5010661" side_tool="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.4989339" weight="0.31995663" />
+      <window_info active="true" anchor="bottom" id="Build" order="14" sideWeight="0.4989339" visible="true" weight="0.318872" />
       <window_info anchor="bottom" id="XAML Preview" order="15" weight="0.329718" />
       <window_info anchor="bottom" id="Stacktrace" order="16" weight="0.3308026" />
       <window_info anchor="bottom" id="Inspection Results" order="17" weight="0.329718" />
@@ -1308,7 +1378,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Autocommit added." />
     <MESSAGE value="Fixed Edit and Tools in Investigation crashing when no investigation was selected." />
     <MESSAGE value="Fixed Pasting without clipboard full." />
     <MESSAGE value="Bounds Checking for Paste and Import at are now checked.&#10;Paste will no longer crash when done without a clipboard." />
@@ -1333,7 +1402,8 @@
     <MESSAGE value="Temporarily plugged the leak." />
     <MESSAGE value="Added information tab." />
     <MESSAGE value="Slot enabled is now checked." />
-    <option name="LAST_COMMIT_MESSAGE" value="Slot enabled is now checked." />
+    <MESSAGE value="Name change fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Name change fixed" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1351,19 +1421,6 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/MHW Save Editor/src/Utility/Utility.cs</url>
-          <line>145</line>
-          <properties documentPath="$PROJECT_DIR$/MHW Save Editor/src/Utility/Utility.cs" initialLine="145">
-            <startOffsets>
-              <option value="4954" />
-            </startOffsets>
-            <endOffsets>
-              <option value="5001" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1389,13 +1446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/InvestigationEditing/Investigation.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3842">
-          <caret line="391" column="37" selection-start-line="391" selection-start-column="37" selection-end-line="391" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -1434,14 +1484,6 @@
         <state relative-caret-position="119">
           <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="67" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/FileFormat/GenericFile.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/FileFormat/SaveFile.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-89" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/InventoryEditing/InventorySlot.cs">
@@ -1502,16 +1544,6 @@
           <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/Tabs/GeneralTab.xaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/Tabs/GeneralTab.xaml.cs">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/Tabs/InvestigationsTab.xaml.cs">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1595,35 +1627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="17" selection-end-column="65" />
-          <folding>
-            <marker date="1540257674428" expanded="false" signature="6:225" ph="..." />
-            <marker date="1540257674428" expanded="true" signature="290:1224" ph="{...}" />
-            <marker date="1540257674428" expanded="true" signature="361:795" ph="{...}" />
-            <marker date="1540257674428" expanded="true" signature="830:1218" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="103" selection-start-line="23" selection-start-column="103" selection-end-line="23" selection-end-column="103" />
-          <folding>
-            <marker date="1540673676719" expanded="true" signature="0:3121" ph="&lt;&lt;DockPanel Name=&quot;Root&quot; xmlns:local=&quot;clr-namespace:MHW_Save_Editor&quot;&gt;&#10;        &lt;Menu Width=&quot;Auto&quot; Height=&quot;20&quot; DockPanel.Dock=&quot;Top&quot;&gt;&#10;            &lt;MenuItem Header=&quot;File&quot;&gt;&#10;                &lt;MenuItem Header=&quot;Open&quot; Click=&quot;OpenFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Save&quot; Click=&quot;SaveFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Backup&quot; Click=&quot;BackupFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Restore&quot; Click=&quot;RestoreFunction&quot; /&gt;&#10;            &lt;/MenuItem&gt;&#10;            &lt;MenuItem Header=&quot;Slot&quot; IsEnabled=&quot;{Binding FileLoaded}&quot;&gt;&#10;                &lt;MenuItem Name=&quot;Slot0&quot; IsChecked=&quot;True&quot; Header=&quot;Slot 1&quot; Click=&quot;SetSlot0Active&quot; IsEnabled=&quot;{Binding Slot1Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot1&quot; Header=&quot;Slot 2&quot; Click=&quot;SetSlot1Active&quot; IsEnabled=&quot;{Binding Slot2Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot2&quot; Header=&quot;Slot 3&quot; Click=&quot;SetSlot2Active&quot; IsEnabled=&quot;{Binding Slot3Enabled}&quot;/&gt;&#10;                &lt;MenuItem Header=&quot;Reset Memory&quot; Click=&quot;clearMem&quot; /&gt;&#10;            &lt;/MenuItem&gt;&#10;            &lt;MenuItem Header=&quot;Edit&quot; ItemsSource = &quot;{Binding EditOptions}&quot; Click = &quot;EditMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;&#10;            &lt;MenuItem Header=&quot;Tools&quot; ItemsSource = &quot;{Binding ToolsOptions}&quot; Click = &quot;ToolsMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;&#10;        &lt;/Menu&gt;&#10;        &lt;Grid&gt;&#10;            &lt;TabControl Name = &quot;TabControl&quot; SelectionChanged = &quot;TabControl_SelectionChanged&quot;&gt;&#10;                &lt;TabItem Header=&quot;General&quot;&gt;&#10;                    &lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot;/&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;TabItem Header=&quot;Information&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Investigations ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Investigations&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Inventory ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Inventory&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;            &lt;/TabControl&gt;&#10;        &lt;/Grid&gt;&#10;    &lt;/DockPanel&gt;.../&gt;" />
-            <marker date="1540673676719" expanded="true" signature="659:3111" ph="&lt;&lt;Menu Width=&quot;Auto&quot; Height=&quot;20&quot; DockPanel.Dock=&quot;Top&quot;&gt;&#10;            &lt;MenuItem Header=&quot;File&quot;&gt;&#10;                &lt;MenuItem Header=&quot;Open&quot; Click=&quot;OpenFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Save&quot; Click=&quot;SaveFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Backup&quot; Click=&quot;BackupFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Restore&quot; Click=&quot;RestoreFunction&quot; /&gt;&#10;            &lt;/MenuItem&gt;&#10;            &lt;MenuItem Header=&quot;Slot&quot; IsEnabled=&quot;{Binding FileLoaded}&quot;&gt;&#10;                &lt;MenuItem Name=&quot;Slot0&quot; IsChecked=&quot;True&quot; Header=&quot;Slot 1&quot; Click=&quot;SetSlot0Active&quot; IsEnabled=&quot;{Binding Slot1Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot1&quot; Header=&quot;Slot 2&quot; Click=&quot;SetSlot1Active&quot; IsEnabled=&quot;{Binding Slot2Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot2&quot; Header=&quot;Slot 3&quot; Click=&quot;SetSlot2Active&quot; IsEnabled=&quot;{Binding Slot3Enabled}&quot;/&gt;&#10;                &lt;MenuItem Header=&quot;Reset Memory&quot; Click=&quot;clearMem&quot; /&gt;&#10;            &lt;/MenuItem&gt;&#10;            &lt;MenuItem Header=&quot;Edit&quot; ItemsSource = &quot;{Binding EditOptions}&quot; Click = &quot;EditMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;&#10;            &lt;MenuItem Header=&quot;Tools&quot; ItemsSource = &quot;{Binding ToolsOptions}&quot; Click = &quot;ToolsMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;&#10;        &lt;/Menu&gt; &lt;Grid&gt;&#10;            &lt;TabControl Name = &quot;TabControl&quot; SelectionChanged = &quot;TabControl_SelectionChanged&quot;&gt;&#10;                &lt;TabItem Header=&quot;General&quot;&gt;&#10;                    &lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot;/&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;TabItem Header=&quot;Information&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Investigations ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Investigations&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Inventory ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Inventory&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;            &lt;/TabControl&gt;&#10;        &lt;/Grid&gt;.../&gt;" />
-            <marker date="1540673676719" expanded="true" signature="735:1935" ph="&lt;&lt;MenuItem Header=&quot;File&quot;&gt;&#10;                &lt;MenuItem Header=&quot;Open&quot; Click=&quot;OpenFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Save&quot; Click=&quot;SaveFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Backup&quot; Click=&quot;BackupFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Restore&quot; Click=&quot;RestoreFunction&quot; /&gt;&#10;            &lt;/MenuItem&gt; &lt;MenuItem Header=&quot;Slot&quot; IsEnabled=&quot;{Binding FileLoaded}&quot;&gt;&#10;                &lt;MenuItem Name=&quot;Slot0&quot; IsChecked=&quot;True&quot; Header=&quot;Slot 1&quot; Click=&quot;SetSlot0Active&quot; IsEnabled=&quot;{Binding Slot1Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot1&quot; Header=&quot;Slot 2&quot; Click=&quot;SetSlot1Active&quot; IsEnabled=&quot;{Binding Slot2Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot2&quot; Header=&quot;Slot 3&quot; Click=&quot;SetSlot2Active&quot; IsEnabled=&quot;{Binding Slot3Enabled}&quot;/&gt;&#10;                &lt;MenuItem Header=&quot;Reset Memory&quot; Click=&quot;clearMem&quot; /&gt;&#10;            &lt;/MenuItem&gt; &lt;MenuItem Header=&quot;Edit&quot; ItemsSource = &quot;{Binding EditOptions}&quot; Click = &quot;EditMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt; &lt;MenuItem Header=&quot;Tools&quot; ItemsSource = &quot;{Binding ToolsOptions}&quot; Click = &quot;ToolsMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;.../&gt;" />
-            <marker date="1540673676719" expanded="true" signature="800:1114" ph="&lt;&lt;MenuItem Header=&quot;Open&quot; Click=&quot;OpenFunction&quot; /&gt; &lt;MenuItem Header=&quot;Save&quot; Click=&quot;SaveFunction&quot; /&gt; &lt;MenuItem Header=&quot;Backup&quot; Click=&quot;BackupFunction&quot; /&gt; &lt;MenuItem Header=&quot;Restore&quot; Click=&quot;RestoreFunction&quot; /&gt;.../&gt;" />
-            <marker date="1540673676719" expanded="true" signature="1127:1638" ph="&lt;&lt;MenuItem Name=&quot;Slot0&quot; IsChecked=&quot;True&quot; Header=&quot;Slot 1&quot; Click=&quot;SetSlot0Active&quot; IsEnabled=&quot;{Binding Slot1Enabled}&quot;/&gt; &lt;MenuItem Name=&quot;Slot1&quot; Header=&quot;Slot 2&quot; Click=&quot;SetSlot1Active&quot; IsEnabled=&quot;{Binding Slot2Enabled}&quot;/&gt; &lt;MenuItem Name=&quot;Slot2&quot; Header=&quot;Slot 3&quot; Click=&quot;SetSlot2Active&quot; IsEnabled=&quot;{Binding Slot3Enabled}&quot;/&gt; &lt;MenuItem Header=&quot;Reset Memory&quot; Click=&quot;clearMem&quot; /&gt;.../&gt;" />
-            <marker date="1540673676719" expanded="true" signature="1944:3094" ph="&lt;&lt;TabControl Name = &quot;TabControl&quot; SelectionChanged = &quot;TabControl_SelectionChanged&quot;&gt;&#10;                &lt;TabItem Header=&quot;General&quot;&gt;&#10;                    &lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot;/&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;TabItem Header=&quot;Information&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Investigations ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Investigations&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Inventory ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Inventory&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;            &lt;/TabControl&gt;.../&gt;" />
-            <marker date="1540673676719" expanded="true" signature="1963:3078" ph="&lt;&lt;TabItem Header=&quot;General&quot;&gt;&#10;                    &lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot;/&gt;&#10;                &lt;/TabItem&gt; &lt;TabItem Header=&quot;Information&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt; &lt;TabItem Header=&quot;Investigations&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt; &lt;TabItem Header=&quot;Inventory&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;.../&gt;" />
-            <marker date="1540673676719" expanded="true" signature="2061:2222" ph="&lt;&lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot;/&gt;.../&gt;" />
-            <marker date="1540673676719" expanded="true" signature="2239:2415" ph="&lt;&lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;.../&gt;" />
-            <marker date="1540673676719" expanded="true" signature="2290:2388" ph="&lt;&lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;.../&gt;" />
-            <marker date="1540673676719" expanded="true" signature="2552:2741" ph="&lt;&lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;.../&gt;" />
-            <marker date="1540673676719" expanded="true" signature="2606:2714" ph="&lt;&lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;.../&gt;" />
-            <marker date="1540673676719" expanded="true" signature="2873:3052" ph="&lt;&lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;.../&gt;" />
-            <marker date="1540673676719" expanded="true" signature="2922:3025" ph="&lt;&lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;.../&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1631,16 +1634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="27" column="62" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
-          <folding>
-            <marker date="1540257674449" expanded="false" signature="6:159" ph="..." />
-            <marker date="1540257674449" expanded="true" signature="251:1900" ph="{...}" />
-            <marker date="1540257674449" expanded="true" signature="390:440" ph="{...}" />
-            <marker date="1540257674449" expanded="true" signature="519:1161" ph="{...}" />
-            <marker date="1540257674449" expanded="true" signature="810:1055" ph="{...}" />
-            <marker date="1540257674449" expanded="true" signature="1200:1427" ph="{...}" />
-            <marker date="1540257674449" expanded="true" signature="1312:1390" ph="{...}" />
-            <marker date="1540257674449" expanded="true" signature="1618:1892" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1648,13 +1641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
-          <folding>
-            <marker date="1540257674472" expanded="false" signature="6:159" ph="..." />
-            <marker date="1540257674472" expanded="true" signature="329:1784" ph="{...}" />
-            <marker date="1540257674472" expanded="true" signature="501:819" ph="{...}" />
-            <marker date="1540257674472" expanded="true" signature="1359:1778" ph="{...}" />
-            <marker date="1540257674472" expanded="true" signature="1395:1768" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1662,15 +1648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
-          <folding>
-            <marker date="1540257674472" expanded="true" signature="6:112" ph="..." />
-            <marker date="1540257674472" expanded="true" signature="206:1097" ph="{...}" />
-            <marker date="1540257674472" expanded="true" signature="313:575" ph="{...}" />
-            <marker date="1540257674472" expanded="true" signature="713:1006" ph="{...}" />
-            <marker date="1540257674472" expanded="true" signature="736:837" ph="/* Explicit static constructor to tell C## compiler ... */" />
-            <marker date="1540257674472" expanded="true" signature="865:893" ph="{...}" />
-            <marker date="1540257674472" expanded="true" signature="1039:1091" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1678,116 +1655,217 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
-          <folding>
-            <marker date="1540257674464" expanded="false" signature="6:83" ph="..." />
-            <marker date="1540257674464" expanded="true" signature="168:2657" ph="{...}" />
-            <marker date="1540257674464" expanded="true" signature="216:261" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MHW Save Editor/MainWindowInventory.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
-          <folding>
-            <marker date="1540257674423" expanded="false" signature="6:265" ph="..." />
-            <marker date="1540257674423" expanded="true" signature="330:2166" ph="{...}" />
-            <marker date="1540257674423" expanded="true" signature="2102:2141" ph="{...}" />
-            <marker date="1540257674423" expanded="true" signature="2102:2151" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/Resources/MasterItemList.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="825" column="212" selection-start-line="825" selection-start-column="206" selection-end-line="825" selection-end-column="212" />
+        <state relative-caret-position="5423">
+          <caret column="319705" selection-start-column="319705" selection-end-column="319705" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml.cs">
+    <entry file="file://$PROJECT_DIR$/MHW Save Editor/MainWindowInventory.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+        <state relative-caret-position="714">
+          <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHW Save Editor/InputBox.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <marker date="1540674056257" expanded="false" signature="6:425" ph="..." />
-            <marker date="1540674056257" expanded="true" signature="452:12016" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="459:537" ph="/// Interaction logic for MainWindow.xaml ... " />
-            <marker date="1540674056257" expanded="true" signature="606:12009" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="912:1303" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="987:1293" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="1343:1513" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="1553:1610" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="1639:1776" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="1846:3289" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="2213:2378" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="2409:2571" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="3358:4649" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="3757:4639" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="3809:4481" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="3851:4230" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="4277:4463" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="4502:4624" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="4720:5575" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="5040:5565" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="5074:5336" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="5375:5551" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="5647:7491" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="6433:6959" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="6475:6705" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="6752:6941" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="7005:7481" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="7039:7251" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="7290:7467" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="7562:7711" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="7782:7931" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="8002:8151" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="8221:8658" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="8723:8769" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="8836:9114" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="9200:9395" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="9250:9385" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="9452:9818" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="9478:9808" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="9541:9794" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="9876:10244" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="9902:10234" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="9966:10220" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="10297:10308" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="10361:10372" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="10446:10736" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="10487:10726" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="10803:11095" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="10844:11085" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="11170:11337" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="11413:11581" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="11728:12003" ph="{...}" />
-            <marker date="1540674056257" expanded="true" signature="11890:11993" ph="{...}" />
+            <marker date="1538107859868" expanded="true" signature="324:992" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;Label Name=&quot;lblQuestion&quot; &gt;Question:&lt;/Label&gt; &lt;TextBox Name=&quot;txtAnswer&quot; Grid.Row=&quot;1&quot; MinWidth=&quot;250&quot; UndoLimit = &quot;0&quot; &gt;Answer&lt;/TextBox&gt; &lt;WrapPanel Grid.Row=&quot;2&quot; HorizontalAlignment=&quot;Right&quot; Margin=&quot;0,15,0,0&quot;&gt;&#10;            &lt;Button IsDefault=&quot;True&quot; Name=&quot;btnDialogOk&quot; Click=&quot;btnDialogOk_Click&quot; MinWidth=&quot;60&quot; Margin=&quot;0,0,10,0&quot;&gt;_Ok&lt;/Button&gt;&#10;            &lt;Button IsCancel=&quot;True&quot; MinWidth=&quot;60&quot;&gt;_Cancel&lt;/Button&gt;&#10;        &lt;/WrapPanel&gt;.../&gt;" />
+            <marker date="1538107859868" expanded="true" signature="351:535" ph="&lt;&lt;RowDefinition Height=&quot;Auto&quot; /&gt; &lt;RowDefinition Height=&quot;Auto&quot; /&gt; &lt;RowDefinition Height=&quot;Auto&quot; /&gt;.../&gt;" />
+            <marker date="1538107859868" expanded="true" signature="695:980" ph="&lt;&lt;Button IsDefault=&quot;True&quot; Name=&quot;btnDialogOk&quot; Click=&quot;btnDialogOk_Click&quot; MinWidth=&quot;60&quot; Margin=&quot;0,0,10,0&quot;&gt;_Ok&lt;/Button&gt; &lt;Button IsCancel=&quot;True&quot; MinWidth=&quot;60&quot;&gt;_Cancel&lt;/Button&gt;.../&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MHW Save Editor/MainWindowGeneral.xaml.cs">
+    <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/SlotEditing/CharacterSlot.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="35" />
+        <state relative-caret-position="986">
+          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
           <folding>
-            <marker date="1538109494933" expanded="false" signature="7:55" ph="..." />
-            <marker date="1538109494933" expanded="true" signature="82:1061" ph="{...}" />
-            <marker date="1538109494933" expanded="true" signature="89:167" ph="/// Interaction logic for MainWindow.xaml ... " />
-            <marker date="1538109494933" expanded="true" signature="203:1059" ph="{...}" />
-            <marker date="1538109494933" expanded="true" signature="281:1053" ph="{...}" />
-            <marker date="1538109494933" expanded="true" signature="534:1010" ph="{...}" />
-            <marker date="1538109494933" expanded="true" signature="618:840" ph="{...}" />
-            <marker date="1538109494933" expanded="true" signature="879:996" ph="{...}" />
+            <marker date="1541979449395" expanded="false" signature="6:188" ph="..." />
+            <marker date="1541979449395" expanded="true" signature="257:6151" ph="{...}" />
+            <marker date="1541979449395" expanded="true" signature="432:530" ph="{...}" />
+            <marker date="1541979449395" expanded="true" signature="916:1298" ph="/* public HunterAppearance HunterAppearance; ... */" />
+            <marker date="1541979449395" expanded="true" signature="1385:1853" ph="{...}" />
+            <marker date="1541979449395" expanded="true" signature="1903:2147" ph="{...}" />
+            <marker date="1541979449395" expanded="true" signature="2004:2113" ph="{...}" />
+            <marker date="1541979449395" expanded="true" signature="2182:2519" ph="{...}" />
+            <marker date="1541979449395" expanded="true" signature="2660:6144" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/InvestigationEditing/Investigation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <marker date="1540257674485" expanded="false" signature="6:277" ph="..." />
+            <marker date="1540257674485" expanded="true" signature="374:29454" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="499:724" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="771:5866" ph="Thinlayer" />
+            <marker date="1540257674485" expanded="true" signature="797:4865" ph="Members" />
+            <marker date="1540257674485" expanded="true" signature="922:1019" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="1050:1186" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="1218:1397" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="1424:1586" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="1621:1736" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="1764:1879" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="1908:2002" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="2031:2125" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="2154:2248" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="2293:2404" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="2461:2574" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="2605:2742" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="2773:2910" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="2941:3078" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="3102:3217" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="3245:3360" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="3389:3504" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="3528:3643" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="3667:3782" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="3817:3932" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="3969:4084" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="4109:4242" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="4274:4389" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="4427:4542" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="4579:4694" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="4731:4846" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="4932:5182" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="5253:5503" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="5541:5677" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="5734:5851" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="5916:6301" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="5942:6291" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="6336:6402" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="6442:6813" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="6468:6803" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="7021:13186" ph="Members" />
+            <marker date="1540257674485" expanded="true" signature="7072:7120" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="7163:7232" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="7265:7577" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="7328:7567" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="7602:7750" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="7654:7740" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="7779:7935" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="7835:7925" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="7959:8202" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="8011:8192" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="8226:8556" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="8299:8546" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="8580:8910" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="8653:8900" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="8934:9264" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="9007:9254" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="9293:9544" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="9349:9534" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="9573:9824" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="9629:9814" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="9853:10104" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="9909:10094" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="10127:10316" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="10177:10306" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="10342:10539" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="10396:10529" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="10566:10765" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="10621:10755" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="10787:10961" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="10837:10951" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="10991:11196" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="11049:11186" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="11232:11449" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="11296:11439" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="11482:11697" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="11545:11687" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="11730:12122" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="11789:12112" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="12156:12335" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="12217:12325" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="12357:12514" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="12407:12504" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="12537:12694" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="12587:12684" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="12728:12941" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="12790:12931" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="12970:13171" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="13026:13161" ph="{...}" />
+            <marker date="1540257674485" expanded="false" signature="13192:15606" ph="Methods" />
+            <marker date="1540257674485" expanded="true" signature="13242:13295" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="13577:14363" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="14400:15590" ph="{...}" />
+            <marker date="1540257674485" expanded="false" signature="15620:18480" ph="LegalityConditions" />
+            <marker date="1540257674485" expanded="true" signature="15782:16268" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="16407:16580" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="16638:16719" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="16769:16843" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="16979:17428" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="17576:18172" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="18260:18305" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="18435:18455" ph="{...}" />
+            <marker date="1540257674485" expanded="false" signature="18494:23909" ph="DataCollections" />
+            <marker date="1540257674485" expanded="true" signature="18704:18857" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="19010:19248" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="19330:19426" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="19493:19592" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="19656:19752" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="21196:21265" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="21390:21783" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="21982:22337" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="22410:22901" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="22960:23048" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="23138:23875" ph="{...}" />
+            <marker date="1540257674485" expanded="false" signature="23923:29448" ph="BoxstoreCalculations" />
+            <marker date="1540257674485" expanded="true" signature="23988:24233" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="24531:24631" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="24672:24903" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="24943:25285" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="25322:25583" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="26137:26930" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="26964:27335" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="27441:28379" ph="{...}" />
+            <marker date="1540257674485" expanded="true" signature="28481:29427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/FileFormat/GenericFile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537346840515" expanded="false" signature="6:195" ph="..." />
+            <marker date="1537346840515" expanded="true" signature="233:1472" ph="{...}" />
+            <marker date="1537346840515" expanded="true" signature="257:1470" ph="{...}" />
+            <marker date="1537346840515" expanded="true" signature="414:535" ph="{...}" />
+            <marker date="1537346840515" expanded="true" signature="566:907" ph="{...}" />
+            <marker date="1537346840515" expanded="true" signature="727:897" ph="{...}" />
+            <marker date="1537346840515" expanded="true" signature="938:1279" ph="{...}" />
+            <marker date="1537346840515" expanded="true" signature="1099:1269" ph="{...}" />
+            <marker date="1537346840515" expanded="true" signature="1318:1464" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/Tabs/SlotTab.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+          <folding>
+            <marker date="1540257675484" expanded="true" signature="0:657" ph="&lt;&lt;Grid&gt;&#10;        &lt;ContentControl Name=&quot;InvestigationListing&quot;&gt;&#10;            &lt;local:SlotView/&gt;&#10;        &lt;/ContentControl&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1540257675484" expanded="true" signature="515:642" ph="&lt;&lt;ContentControl Name=&quot;InvestigationListing&quot;&gt;&#10;            &lt;local:SlotView/&gt;&#10;        &lt;/ContentControl&gt;.../&gt;" />
+            <marker date="1540257675484" expanded="true" signature="530:630" ph="&lt;&lt;local:SlotView/&gt;.../&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/SlotEditing/SlotView.xaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
+        <state relative-caret-position="272">
           <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
           <folding>
             <marker date="1541979534881" expanded="true" signature="0:5066" ph="&lt;&lt;UserControl.Resources&gt;&#10;        &lt;local:EnumBooleanConverter x:Key=&quot;EnumBooleanConverter&quot; /&gt;&#10;    &lt;/UserControl.Resources&gt; &lt;Grid&gt;&#10;        &lt;ListBox Name=&quot;ListBox&quot; HorizontalContentAlignment=&quot;Stretch&quot; DataContext=&quot;{Binding VisibleSlot}&quot;&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBlock Text=&quot;Hunter Name: &quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;TextBox Text=&quot;{Binding HunterName, Mode=TwoWay}&quot; UndoLimit = &quot;1&quot; MaxLength = &quot;64&quot; BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot; SelectionBrush=&quot;Transparent&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBlock Text=&quot;Hunter Rank: &quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;xctk:IntegerUpDown Text=&quot;{Binding HunterRank}&quot;&#10;                                    Minimum = &quot;0&quot; Maximum = &quot;999&quot; FormatString=&quot;N0&quot;&#10;                                    BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBlock Text=&quot;Zenny: &quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;xctk:IntegerUpDown Text=&quot;{Binding Zenny}&quot; ShowButtonSpinner = &quot;False&quot; &#10;                                    Minimum = &quot;0&quot; Maximum = &quot;2147483647&quot; FormatString=&quot;N0&quot;&#10;                                    BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot;/&gt;&#10;                &lt;TextBlock Text=&quot;z&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBlock Text=&quot;Research Points: &quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;xctk:IntegerUpDown Text=&quot;{Binding ResearchPoints}&quot; ShowButtonSpinner = &quot;False&quot; &#10;                                    Minimum = &quot;0&quot; Maximum = &quot;2147483647&quot; FormatString=&quot;N0&quot;&#10;                                    BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBlock Text=&quot;Hunter XP: &quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;xctk:IntegerUpDown Text=&quot;{Binding HunterXP}&quot; ShowButtonSpinner = &quot;False&quot; &#10;                                    Minimum = &quot;0&quot; Maximum = &quot;2147483647&quot; FormatString=&quot;N0&quot;&#10;                                    BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBlock Text=&quot;Playtime: &quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;xctk:IntegerUpDown Text=&quot;{Binding hours}&quot; ShowButtonSpinner = &quot;False&quot; &#10;                                    Minimum = &quot;0&quot; Maximum = &quot;9999&quot; FormatString=&quot;N0&quot;&#10;                                    HorizontalAlignment=&quot;Right&quot;&#10;                                    BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot;/&gt;&#10;                &lt;TextBlock Text=&quot;h&quot; VerticalAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Left&quot;/&gt;&#10;                &lt;xctk:IntegerUpDown Text=&quot;{Binding minutes}&quot; ShowButtonSpinner = &quot;False&quot; &#10;                                    Minimum = &quot;0&quot; Maximum = &quot;59&quot; FormatString=&quot;00&quot;&#10;                                    HorizontalAlignment=&quot;Right&quot;&#10;                                    BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot;/&gt;&#10;                &lt;TextBlock Text=&quot;m&quot; VerticalAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Left&quot;/&gt;&#10;                &lt;xctk:IntegerUpDown Text=&quot;{Binding seconds}&quot; ShowButtonSpinner = &quot;False&quot; &#10;                                    Minimum = &quot;0&quot; Maximum = &quot;59&quot; FormatString=&quot;00&quot;&#10;                                    HorizontalAlignment=&quot;Right&quot;&#10;                                    BorderBrush=&quot;Transparent&quot; Background=&quot;Transparent&quot;/&gt;&#10;                &lt;TextBlock Text=&quot;s&quot; VerticalAlignment=&quot;Center&quot; HorizontalAlignment=&quot;Left&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                &lt;TextBlock Text=&quot;Gender:    Male&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;RadioButton IsChecked=&quot;{Binding Gender, Converter={StaticResource EnumBooleanConverter}, &#10;                ConverterParameter={x:Static local:GenderEnum.Male}, Mode=TwoWay}&quot;&#10;                             VerticalAlignment=&quot;Bottom&quot;/&gt;&#10;                &lt;TextBlock Text=&quot;    Female &quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;RadioButton IsChecked=&quot;{Binding Gender, Converter={StaticResource EnumBooleanConverter}, &#10;                ConverterParameter={x:Static local:GenderEnum.Female}, Mode=TwoWay}&quot;&#10;                             VerticalAlignment=&quot;Bottom&quot;/&gt;&#10;            &lt;/StackPanel&gt;&#10;        &lt;/ListBox&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
@@ -1814,98 +1892,217 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/Tabs/SlotTab.xaml">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/913BC31B-8E29-4F10-9E04-523E15AE37B2/f0/182f98ca/RoutedEventHandlerInfo.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-          <folding>
-            <marker date="1540257675484" expanded="true" signature="0:657" ph="&lt;&lt;Grid&gt;&#10;        &lt;ContentControl Name=&quot;InvestigationListing&quot;&gt;&#10;            &lt;local:SlotView/&gt;&#10;        &lt;/ContentControl&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
-            <marker date="1540257675484" expanded="true" signature="515:642" ph="&lt;&lt;ContentControl Name=&quot;InvestigationListing&quot;&gt;&#10;            &lt;local:SlotView/&gt;&#10;        &lt;/ContentControl&gt;.../&gt;" />
-            <marker date="1540257675484" expanded="true" signature="530:630" ph="&lt;&lt;local:SlotView/&gt;.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MHW Save Editor/InputBox.xaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1538107859868" expanded="true" signature="0:1002" ph="&lt;&lt;Grid Margin=&quot;15&quot;&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;&#10;        &lt;Label Name=&quot;lblQuestion&quot; &gt;Question:&lt;/Label&gt;&#10;        &lt;TextBox Name=&quot;txtAnswer&quot; Grid.Row=&quot;1&quot; MinWidth=&quot;250&quot; UndoLimit = &quot;0&quot; &gt;Answer&lt;/TextBox&gt;&#10;&#10;        &lt;WrapPanel Grid.Row=&quot;2&quot; HorizontalAlignment=&quot;Right&quot; Margin=&quot;0,15,0,0&quot;&gt;&#10;            &lt;Button IsDefault=&quot;True&quot; Name=&quot;btnDialogOk&quot; Click=&quot;btnDialogOk_Click&quot; MinWidth=&quot;60&quot; Margin=&quot;0,0,10,0&quot;&gt;_Ok&lt;/Button&gt;&#10;            &lt;Button IsCancel=&quot;True&quot; MinWidth=&quot;60&quot;&gt;_Cancel&lt;/Button&gt;&#10;        &lt;/WrapPanel&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
-            <marker date="1538107859868" expanded="true" signature="324:992" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;Auto&quot; /&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;Label Name=&quot;lblQuestion&quot; &gt;Question:&lt;/Label&gt; &lt;TextBox Name=&quot;txtAnswer&quot; Grid.Row=&quot;1&quot; MinWidth=&quot;250&quot; UndoLimit = &quot;0&quot; &gt;Answer&lt;/TextBox&gt; &lt;WrapPanel Grid.Row=&quot;2&quot; HorizontalAlignment=&quot;Right&quot; Margin=&quot;0,15,0,0&quot;&gt;&#10;            &lt;Button IsDefault=&quot;True&quot; Name=&quot;btnDialogOk&quot; Click=&quot;btnDialogOk_Click&quot; MinWidth=&quot;60&quot; Margin=&quot;0,0,10,0&quot;&gt;_Ok&lt;/Button&gt;&#10;            &lt;Button IsCancel=&quot;True&quot; MinWidth=&quot;60&quot;&gt;_Cancel&lt;/Button&gt;&#10;        &lt;/WrapPanel&gt;.../&gt;" />
-            <marker date="1538107859868" expanded="true" signature="351:535" ph="&lt;&lt;RowDefinition Height=&quot;Auto&quot; /&gt; &lt;RowDefinition Height=&quot;Auto&quot; /&gt; &lt;RowDefinition Height=&quot;Auto&quot; /&gt;.../&gt;" />
-            <marker date="1538107859868" expanded="true" signature="695:980" ph="&lt;&lt;Button IsDefault=&quot;True&quot; Name=&quot;btnDialogOk&quot; Click=&quot;btnDialogOk_Click&quot; MinWidth=&quot;60&quot; Margin=&quot;0,0,10,0&quot;&gt;_Ok&lt;/Button&gt; &lt;Button IsCancel=&quot;True&quot; MinWidth=&quot;60&quot;&gt;_Cancel&lt;/Button&gt;.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/SlotEditing/CharacterSlot.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
-          <folding>
-            <marker date="1541979449395" expanded="false" signature="6:188" ph="..." />
-            <marker date="1541979449395" expanded="true" signature="224:6153" ph="{...}" />
-            <marker date="1541979449395" expanded="true" signature="257:6151" ph="{...}" />
-            <marker date="1541979449395" expanded="true" signature="432:530" ph="{...}" />
-            <marker date="1541979449395" expanded="true" signature="916:1298" ph="/* public HunterAppearance HunterAppearance; ... */" />
-            <marker date="1541979449395" expanded="true" signature="1385:1853" ph="{...}" />
-            <marker date="1541979449395" expanded="true" signature="1903:2147" ph="{...}" />
-            <marker date="1541979449395" expanded="true" signature="2004:2113" ph="{...}" />
-            <marker date="1541979449395" expanded="true" signature="2182:2519" ph="{...}" />
-            <marker date="1541979449395" expanded="true" signature="2660:6144" ph="{...}" />
-          </folding>
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/Utility/Utility.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="148" column="16" selection-start-line="148" selection-start-column="16" selection-end-line="148" selection-end-column="16" />
+        <state relative-caret-position="337">
+          <caret line="141" column="8" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
           <folding>
-            <marker date="1541980038909" expanded="false" signature="6:224" ph="..." />
-            <marker date="1541980038909" expanded="true" signature="251:7054" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="278:5456" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="328:1409" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="555:1369" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="813:1355" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="969:1266" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="1461:1619" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="1665:1885" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="1787:1844" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="1930:2136" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="2190:2544" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="2302:2506" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="2624:2753" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="2837:2999" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="3081:3211" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="3265:3776" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="3794:3943" ph="/* Taken from the solution to the problem in O(n) time, O(1) space ... */" />
-            <marker date="1541980038909" expanded="true" signature="4023:4381" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="4308:4371" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="4474:4551" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="4630:4791" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="4882:5183" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="5077:5146" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="5254:5450" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="5500:6069" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="5627:5735" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="5745:5863" ph="/* Convenience method on IEnumerable&lt;T&gt; to allow passing of a ... */" />
-            <marker date="1541980038909" expanded="true" signature="5963:6063" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="6075:6233" ph="/* Wraps a generic Comparison&lt;T&gt; delegate in an IComparer to make it easy ... */" />
-            <marker date="1541980038909" expanded="true" signature="6298:6693" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="6417:6475" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="6513:6571" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="6621:6687" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="6762:7052" ph="{...}" />
-            <marker date="1541980038909" expanded="true" signature="6835:7046" ph="{...}" />
+            <marker date="1544141494238" expanded="false" signature="6:224" ph="..." />
+            <marker date="1544141494238" expanded="true" signature="251:7040" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="278:5442" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="328:1395" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="555:1337" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="802:1323" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="958:1234" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="1447:1605" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="1651:1871" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="1773:1830" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="1916:2122" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="2176:2530" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="2288:2492" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="2610:2739" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="2823:2985" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="3067:3197" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="3251:3762" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="3780:3929" ph="/* Taken from the solution to the problem in O(n) time, O(1) space ... */" />
+            <marker date="1544141494238" expanded="true" signature="4009:4367" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="4294:4357" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="4460:4537" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="4616:4777" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="4868:5169" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="5063:5132" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="5240:5436" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="5486:6055" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="5613:5721" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="5731:5849" ph="/* Convenience method on IEnumerable&lt;T&gt; to allow passing of a ... */" />
+            <marker date="1544141494238" expanded="true" signature="5949:6049" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="6061:6219" ph="/* Wraps a generic Comparison&lt;T&gt; delegate in an IComparer to make it easy ... */" />
+            <marker date="1544141494238" expanded="true" signature="6284:6679" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="6403:6461" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="6499:6557" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="6607:6673" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="6748:7038" ph="{...}" />
+            <marker date="1544141494238" expanded="true" signature="6821:7032" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/913BC31B-8E29-4F10-9E04-523E15AE37B2/f0/182f98ca/RoutedEventHandlerInfo.cs">
+    <entry file="file://$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        <state relative-caret-position="357">
+          <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
+          <folding>
+            <marker date="1544679103056" expanded="true" signature="0:3166" ph="&lt;&lt;DockPanel Name=&quot;Root&quot; xmlns:local=&quot;clr-namespace:MHW_Save_Editor&quot;&gt;&#10;        &lt;Menu Width=&quot;Auto&quot; Height=&quot;20&quot; DockPanel.Dock=&quot;Top&quot;&gt;&#10;            &lt;MenuItem Header=&quot;File&quot;&gt;&#10;                &lt;MenuItem Header=&quot;Open&quot; Click=&quot;OpenFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Save&quot; Click=&quot;SaveFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Backup&quot; Click=&quot;BackupFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Restore&quot; Click=&quot;RestoreFunction&quot; /&gt;&#10;            &lt;/MenuItem&gt;&#10;            &lt;MenuItem Header=&quot;Slot&quot; IsEnabled=&quot;{Binding FileLoaded}&quot;&gt;&#10;                &lt;MenuItem Name=&quot;Slot0&quot; IsChecked=&quot;True&quot; Header=&quot;Slot 1&quot; Click=&quot;SetSlot0Active&quot; IsEnabled=&quot;{Binding Slot1Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot1&quot; Header=&quot;Slot 2&quot; Click=&quot;SetSlot1Active&quot; IsEnabled=&quot;{Binding Slot2Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot2&quot; Header=&quot;Slot 3&quot; Click=&quot;SetSlot2Active&quot; IsEnabled=&quot;{Binding Slot3Enabled}&quot;/&gt;&#10;                &lt;MenuItem Header=&quot;Reset Memory&quot; Click=&quot;clearMem&quot; /&gt;&#10;            &lt;/MenuItem&gt;&#10;            &lt;MenuItem Header=&quot;Edit&quot; ItemsSource = &quot;{Binding EditOptions}&quot; Click = &quot;EditMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;&#10;            &lt;MenuItem Header=&quot;Tools&quot; ItemsSource = &quot;{Binding ToolsOptions}&quot; Click = &quot;ToolsMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;&#10;        &lt;/Menu&gt;&#10;        &lt;Grid&gt;&#10;            &lt;TabControl Name = &quot;TabControl&quot; SelectionChanged = &quot;TabControl_SelectionChanged&quot;&gt;&#10;                &lt;TabItem Header=&quot;General&quot;&gt;&#10;                    &lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot; VoucherResetDoubleClicked=&quot;EditVoucherCount&quot;/&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;TabItem Header=&quot;Information&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Investigations ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Investigations&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Inventory ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Inventory&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;            &lt;/TabControl&gt;&#10;        &lt;/Grid&gt;&#10;    &lt;/DockPanel&gt;.../&gt;" />
+            <marker date="1544679103056" expanded="true" signature="659:3156" ph="&lt;&lt;Menu Width=&quot;Auto&quot; Height=&quot;20&quot; DockPanel.Dock=&quot;Top&quot;&gt;&#10;            &lt;MenuItem Header=&quot;File&quot;&gt;&#10;                &lt;MenuItem Header=&quot;Open&quot; Click=&quot;OpenFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Save&quot; Click=&quot;SaveFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Backup&quot; Click=&quot;BackupFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Restore&quot; Click=&quot;RestoreFunction&quot; /&gt;&#10;            &lt;/MenuItem&gt;&#10;            &lt;MenuItem Header=&quot;Slot&quot; IsEnabled=&quot;{Binding FileLoaded}&quot;&gt;&#10;                &lt;MenuItem Name=&quot;Slot0&quot; IsChecked=&quot;True&quot; Header=&quot;Slot 1&quot; Click=&quot;SetSlot0Active&quot; IsEnabled=&quot;{Binding Slot1Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot1&quot; Header=&quot;Slot 2&quot; Click=&quot;SetSlot1Active&quot; IsEnabled=&quot;{Binding Slot2Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot2&quot; Header=&quot;Slot 3&quot; Click=&quot;SetSlot2Active&quot; IsEnabled=&quot;{Binding Slot3Enabled}&quot;/&gt;&#10;                &lt;MenuItem Header=&quot;Reset Memory&quot; Click=&quot;clearMem&quot; /&gt;&#10;            &lt;/MenuItem&gt;&#10;            &lt;MenuItem Header=&quot;Edit&quot; ItemsSource = &quot;{Binding EditOptions}&quot; Click = &quot;EditMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;&#10;            &lt;MenuItem Header=&quot;Tools&quot; ItemsSource = &quot;{Binding ToolsOptions}&quot; Click = &quot;ToolsMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;&#10;        &lt;/Menu&gt; &lt;Grid&gt;&#10;            &lt;TabControl Name = &quot;TabControl&quot; SelectionChanged = &quot;TabControl_SelectionChanged&quot;&gt;&#10;                &lt;TabItem Header=&quot;General&quot;&gt;&#10;                    &lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot; VoucherResetDoubleClicked=&quot;EditVoucherCount&quot;/&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;TabItem Header=&quot;Information&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Investigations ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Investigations&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Inventory ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Inventory&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;            &lt;/TabControl&gt;&#10;        &lt;/Grid&gt;.../&gt;" />
+            <marker date="1544679103056" expanded="true" signature="735:1935" ph="&lt;&lt;MenuItem Header=&quot;File&quot;&gt;&#10;                &lt;MenuItem Header=&quot;Open&quot; Click=&quot;OpenFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Save&quot; Click=&quot;SaveFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Backup&quot; Click=&quot;BackupFunction&quot; /&gt;&#10;                &lt;MenuItem Header=&quot;Restore&quot; Click=&quot;RestoreFunction&quot; /&gt;&#10;            &lt;/MenuItem&gt; &lt;MenuItem Header=&quot;Slot&quot; IsEnabled=&quot;{Binding FileLoaded}&quot;&gt;&#10;                &lt;MenuItem Name=&quot;Slot0&quot; IsChecked=&quot;True&quot; Header=&quot;Slot 1&quot; Click=&quot;SetSlot0Active&quot; IsEnabled=&quot;{Binding Slot1Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot1&quot; Header=&quot;Slot 2&quot; Click=&quot;SetSlot1Active&quot; IsEnabled=&quot;{Binding Slot2Enabled}&quot;/&gt;&#10;                &lt;MenuItem Name=&quot;Slot2&quot; Header=&quot;Slot 3&quot; Click=&quot;SetSlot2Active&quot; IsEnabled=&quot;{Binding Slot3Enabled}&quot;/&gt;&#10;                &lt;MenuItem Header=&quot;Reset Memory&quot; Click=&quot;clearMem&quot; /&gt;&#10;            &lt;/MenuItem&gt; &lt;MenuItem Header=&quot;Edit&quot; ItemsSource = &quot;{Binding EditOptions}&quot; Click = &quot;EditMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt; &lt;MenuItem Header=&quot;Tools&quot; ItemsSource = &quot;{Binding ToolsOptions}&quot; Click = &quot;ToolsMenuItem_Click&quot;  IsEnabled=&quot;{Binding FileLoaded}&quot;/&gt;.../&gt;" />
+            <marker date="1544679103056" expanded="true" signature="800:1114" ph="&lt;&lt;MenuItem Header=&quot;Open&quot; Click=&quot;OpenFunction&quot; /&gt; &lt;MenuItem Header=&quot;Save&quot; Click=&quot;SaveFunction&quot; /&gt; &lt;MenuItem Header=&quot;Backup&quot; Click=&quot;BackupFunction&quot; /&gt; &lt;MenuItem Header=&quot;Restore&quot; Click=&quot;RestoreFunction&quot; /&gt;.../&gt;" />
+            <marker date="1544679103056" expanded="true" signature="1127:1638" ph="&lt;&lt;MenuItem Name=&quot;Slot0&quot; IsChecked=&quot;True&quot; Header=&quot;Slot 1&quot; Click=&quot;SetSlot0Active&quot; IsEnabled=&quot;{Binding Slot1Enabled}&quot;/&gt; &lt;MenuItem Name=&quot;Slot1&quot; Header=&quot;Slot 2&quot; Click=&quot;SetSlot1Active&quot; IsEnabled=&quot;{Binding Slot2Enabled}&quot;/&gt; &lt;MenuItem Name=&quot;Slot2&quot; Header=&quot;Slot 3&quot; Click=&quot;SetSlot2Active&quot; IsEnabled=&quot;{Binding Slot3Enabled}&quot;/&gt; &lt;MenuItem Header=&quot;Reset Memory&quot; Click=&quot;clearMem&quot; /&gt;.../&gt;" />
+            <marker date="1544679103056" expanded="true" signature="1944:3139" ph="&lt;&lt;TabControl Name = &quot;TabControl&quot; SelectionChanged = &quot;TabControl_SelectionChanged&quot;&gt;&#10;                &lt;TabItem Header=&quot;General&quot;&gt;&#10;                    &lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot; VoucherResetDoubleClicked=&quot;EditVoucherCount&quot;/&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;TabItem Header=&quot;Information&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Investigations ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Investigations&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;                &lt;!-- Inventory ================================================================================--&gt;&#10;                &lt;TabItem Header=&quot;Inventory&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;&#10;            &lt;/TabControl&gt;.../&gt;" />
+            <marker date="1544679103056" expanded="true" signature="1963:3123" ph="&lt;&lt;TabItem Header=&quot;General&quot;&gt;&#10;                    &lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot; VoucherResetDoubleClicked=&quot;EditVoucherCount&quot;/&gt;&#10;                &lt;/TabItem&gt; &lt;TabItem Header=&quot;Information&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt; &lt;TabItem Header=&quot;Investigations&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt; &lt;TabItem Header=&quot;Inventory&quot;&gt;&#10;                    &lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;&#10;                &lt;/TabItem&gt;.../&gt;" />
+            <marker date="1544679103056" expanded="true" signature="2061:2267" ph="&lt;&lt;local:GeneralTab x:Name=&quot;GeneralTabControl&quot; SteamLabelDoubleClicked=&quot;EditSteamLabel&quot; VoucherResetDoubleClicked=&quot;EditVoucherCount&quot;/&gt;.../&gt;" />
+            <marker date="1544679103056" expanded="true" signature="2284:2460" ph="&lt;&lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1544679103056" expanded="true" signature="2335:2433" ph="&lt;&lt;ContentControl Name=&quot;SlotTabControl&quot;/&gt;.../&gt;" />
+            <marker date="1544679103056" expanded="true" signature="2597:2786" ph="&lt;&lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1544679103056" expanded="true" signature="2651:2759" ph="&lt;&lt;ContentControl Name=&quot;InvestigationsTabControl&quot;/&gt;.../&gt;" />
+            <marker date="1544679103056" expanded="true" signature="2918:3097" ph="&lt;&lt;Grid&gt;&#10;                        &lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;&#10;                    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1544679103056" expanded="true" signature="2967:3070" ph="&lt;&lt;ContentControl Name=&quot;InventoryTabControl&quot;/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/FileFormat/SaveFile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="85" column="34" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
+          <folding>
+            <marker date="1544679349136" expanded="false" signature="7:168" ph="..." />
+            <marker date="1544679349136" expanded="true" signature="206:2931" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="227:2929" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="442:623" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="658:759" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="790:1017" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="844:1007" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="1048:1262" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="1089:1252" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="1293:1338" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="1398:1675" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="1711:1980" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="2027:2175" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="2212:2267" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="2304:2398" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="2437:2594" ph="{...}" />
+            <marker date="1544679349136" expanded="true" signature="2644:2914" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/Tabs/GeneralTab.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <marker date="1544679842007" expanded="true" signature="0:1088" ph="&lt;&lt;Grid&gt;&#10;        &lt;ListBox Name=&quot;ListBox&quot; &gt;&#10;            &lt;Label Name=&quot;ChecksumLabel&quot; Content=&quot;{Binding Checksum}&quot;/&gt;&#10;            &lt;Label Name=&quot;GeneratedChecksumLabel&quot; Content=&quot;{Binding OnFileChecksum}&quot;/&gt;&#10;            &lt;Label Name=&quot;SteamIdLabel&quot; Content=&quot;{Binding SteamId}&quot; MouseDoubleClick=&quot;EditSteamLabel&quot;/&gt;&#10;            &lt;Label Name=&quot;SizeLabel&quot; Content=&quot;{Binding Size}&quot;/&gt;&#10;            &lt;Label Name=&quot;FilePathLabel&quot; Content=&quot;{Binding FilePath}&quot;/&gt;&#10;            &lt;Label Name=&quot;VoucherLabels&quot; Content=&quot;{Binding Vouchers}&quot; MouseDoubleClick=&quot;EditVoucherCount&quot;/&gt;&#10;        &lt;/ListBox&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1544679842007" expanded="true" signature="501:1073" ph="&lt;&lt;ListBox Name=&quot;ListBox&quot; &gt;&#10;            &lt;Label Name=&quot;ChecksumLabel&quot; Content=&quot;{Binding Checksum}&quot;/&gt;&#10;            &lt;Label Name=&quot;GeneratedChecksumLabel&quot; Content=&quot;{Binding OnFileChecksum}&quot;/&gt;&#10;            &lt;Label Name=&quot;SteamIdLabel&quot; Content=&quot;{Binding SteamId}&quot; MouseDoubleClick=&quot;EditSteamLabel&quot;/&gt;&#10;            &lt;Label Name=&quot;SizeLabel&quot; Content=&quot;{Binding Size}&quot;/&gt;&#10;            &lt;Label Name=&quot;FilePathLabel&quot; Content=&quot;{Binding FilePath}&quot;/&gt;&#10;            &lt;Label Name=&quot;VoucherLabels&quot; Content=&quot;{Binding Vouchers}&quot; MouseDoubleClick=&quot;EditVoucherCount&quot;/&gt;&#10;        &lt;/ListBox&gt;.../&gt;" />
+            <marker date="1544679842007" expanded="true" signature="516:1061" ph="&lt;&lt;Label Name=&quot;ChecksumLabel&quot; Content=&quot;{Binding Checksum}&quot;/&gt; &lt;Label Name=&quot;GeneratedChecksumLabel&quot; Content=&quot;{Binding OnFileChecksum}&quot;/&gt; &lt;Label Name=&quot;SteamIdLabel&quot; Content=&quot;{Binding SteamId}&quot; MouseDoubleClick=&quot;EditSteamLabel&quot;/&gt; &lt;Label Name=&quot;SizeLabel&quot; Content=&quot;{Binding Size}&quot;/&gt; &lt;Label Name=&quot;FilePathLabel&quot; Content=&quot;{Binding FilePath}&quot;/&gt; &lt;Label Name=&quot;VoucherLabels&quot; Content=&quot;{Binding Vouchers}&quot; MouseDoubleClick=&quot;EditVoucherCount&quot;/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHW Save Editor/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="89" column="58" selection-start-line="89" selection-start-column="58" selection-end-line="89" selection-end-column="58" />
+          <folding>
+            <marker date="1544680224156" expanded="false" signature="6:425" ph="..." />
+            <marker date="1544680224156" expanded="true" signature="452:12075" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="459:537" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1544680224156" expanded="true" signature="606:12068" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="912:1303" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="987:1293" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="1343:1513" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="1553:1610" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="1639:1776" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="1846:3348" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="2213:2378" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="2409:2571" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="3417:4708" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="3816:4698" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="3868:4540" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="3910:4289" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="4336:4522" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="4561:4683" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="4779:5634" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="5099:5624" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="5133:5395" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="5434:5610" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="5706:7550" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="6492:7018" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="6534:6764" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="6811:7000" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="7064:7540" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="7098:7310" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="7349:7526" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="7621:7770" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="7841:7990" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="8061:8210" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="8280:8717" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="8782:8828" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="8895:9173" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="9259:9454" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="9309:9444" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="9511:9877" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="9537:9867" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="9600:9853" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="9935:10303" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="9961:10293" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="10025:10279" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="10356:10367" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="10420:10431" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="10505:10795" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="10546:10785" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="10862:11154" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="10903:11144" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="11229:11396" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="11472:11640" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="11787:12062" ph="{...}" />
+            <marker date="1544680224156" expanded="true" signature="11949:12052" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHW Save Editor/src/Tabs/GeneralTab.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="30" />
+          <folding>
+            <marker date="1544680030616" expanded="false" signature="6:66" ph="..." />
+            <marker date="1544680030616" expanded="true" signature="93:2975" ph="{...}" />
+            <marker date="1544680030616" expanded="true" signature="145:2973" ph="{...}" />
+            <marker date="1544680030616" expanded="true" signature="179:266" ph="{...}" />
+            <marker date="1544680030616" expanded="true" signature="459:581" ph="{...}" />
+            <marker date="1544680030616" expanded="true" signature="655:781" ph="{...}" />
+            <marker date="1544680030616" expanded="true" signature="821:959" ph="{...}" />
+            <marker date="1544680030616" expanded="true" signature="1192:1342" ph="{...}" />
+            <marker date="1544680030616" expanded="true" signature="1571:1707" ph="{...}" />
+            <marker date="1544680030616" expanded="true" signature="1919:2049" ph="{...}" />
+            <marker date="1544680030616" expanded="true" signature="2268:2406" ph="{...}" />
+            <marker date="1544680030616" expanded="true" signature="2633:2771" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MHW Save Editor/MainWindowGeneral.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="39" column="71" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+          <folding>
+            <marker date="1544680283721" expanded="false" signature="7:55" ph="..." />
+            <marker date="1544680283721" expanded="true" signature="82:1323" ph="{...}" />
+            <marker date="1544680283721" expanded="true" signature="89:167" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1544680283721" expanded="true" signature="203:1321" ph="{...}" />
+            <marker date="1544680283721" expanded="true" signature="281:1053" ph="{...}" />
+            <marker date="1544680283721" expanded="true" signature="534:1010" ph="{...}" />
+            <marker date="1544680283721" expanded="true" signature="618:840" ph="{...}" />
+            <marker date="1544680283721" expanded="true" signature="879:996" ph="{...}" />
+            <marker date="1544680283721" expanded="true" signature="1119:1315" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

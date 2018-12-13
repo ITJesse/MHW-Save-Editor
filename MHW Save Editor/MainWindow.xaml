@@ -30,7 +30,7 @@
         <Grid>
             <TabControl Name = "TabControl" SelectionChanged = "TabControl_SelectionChanged">
                 <TabItem Header="General">
-                    <local:GeneralTab x:Name="GeneralTabControl" SteamLabelDoubleClicked="EditSteamLabel"/>
+                    <local:GeneralTab x:Name="GeneralTabControl" SteamLabelDoubleClicked="EditSteamLabel" VoucherResetDoubleClicked="EditVoucherCount"/>
                 </TabItem>
                 <TabItem Header="Information">
                     <Grid>

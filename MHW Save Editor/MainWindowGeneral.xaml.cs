@@ -32,6 +32,13 @@ namespace MHW_Save_Editor
             }
             inputDialog.Close();
         }
+
+        public void EditVoucherCount(object sender, EventArgs e)
+        {
+            if (saveFile == null) return;
+            saveFile.resetVouchers();
+            MessageBox.Show("Voucher Count Reset", "Voucher Count Reset", MessageBoxButton.OK);
+        }
     }
 }
         

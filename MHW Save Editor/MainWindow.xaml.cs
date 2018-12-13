@@ -87,6 +87,7 @@ namespace MHW_Save_Editor
             GeneralTabControl.Checksum = "Checksum: " + saveFile.GetChecksum();
             GeneralTabControl.OnFileChecksum = "ChecksumGenerated: " + BitConverter.ToString(saveFile.GenerateChecksum()).Replace("-", "");
             GeneralTabControl.FilePath = openFileDialog.FileName;
+            GeneralTabControl.Vouchers = "Reset Vouchers";
             InvestigationsTabControl.Content = PopulateInvestigations(saveFile.data);
             InventoryTabControl.Content = PopulateInventory(saveFile.data);
             SlotTabControl.Content = PopulateSlotData(saveFile.data);
